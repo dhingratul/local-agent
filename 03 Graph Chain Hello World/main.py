@@ -5,6 +5,7 @@ from langchain_core.prompts import PromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 
 import json
+from langchain.callbacks.tracers import ConsoleCallbackHandler
 
 
 # Specify the local language model
@@ -21,7 +22,7 @@ def Agent(question):
         your output format is filename:"" and  content:""
         make sure your output is right json
     """
-    
+
     prompt = PromptTemplate.from_template(template)
 
     # Format the prompt with the input variable
@@ -29,9 +30,8 @@ def Agent(question):
 
     llm_chain = prompt | llm | StrOutputParser()
     generation = llm_chain.invoke(formatted_prompt)
-    
-    return generation
 
+    return generation
 
 
 def Tool(input):
@@ -59,4 +59,4 @@ workflow.set_finish_point("tool")
 
 app = workflow.compile()
 
-app.invoke("write an article, content is startup.md ")
+app.invoke("Write an article about Independence struggle of India, content is in temp.md ", config={'callbacks': [ConsoleCallbackHandler()]})

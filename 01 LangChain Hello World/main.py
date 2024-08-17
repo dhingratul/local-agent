@@ -13,7 +13,8 @@ template = "Question: {question}\nAnswer: Let's think step by step."
 prompt = PromptTemplate.from_template(template)
 
 # Format the prompt with the input variable
-formatted_prompt = prompt.format(question="Tell me about you")
+input_question = "Write merge sort"
+formatted_prompt = prompt.format(question=input_question)
 
 # define langchain
 llm_chain = prompt | llm | StrOutputParser()
