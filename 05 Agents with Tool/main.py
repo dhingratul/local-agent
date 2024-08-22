@@ -35,15 +35,15 @@ class AgentBase(ABC):
     def execute(self) -> TRPGState:
         # Clip the history to the last 8000 characters
         self.state["history"] = clip_history(self.state["history"])
-        
+
         # Define the prompt template
         template = self.get_prompt_template()
-        prompt = PromptTemplate.from_template(template)        
+        prompt = PromptTemplate.from_template(template)
         llm_chain = prompt | llm | StrOutputParser()
         generation = llm_chain.invoke({"history": self.state["history"], "roll_number": self.state["roll_number"]})
-        
+
         data = json.loads(generation)
-        self.state["need_roll"] = data.get("need_roll", "")        
+        self.state["need_roll"] = data.get("need_roll", "")
         self.state["roll_number"] = -1
 
 
@@ -58,7 +58,7 @@ class DM(AgentBase):
         return """
             {history}
             As DnD DM, describe the current scenario for the player. (in short, we do fast play)
-            sometimes roll dice, sometimes not.            
+            sometimes roll dice, sometimes not.
             player roll {roll_number}, if > 0 you need explain what the roll affect result, start from your roll {roll_number} blablabla
             Output the JSON in the format: {{"scenario": "your action description", "need_roll": True/False}}
         """
@@ -125,7 +125,7 @@ app = workflow.compile()
 # Initialize the state
 initial_state = TRPGState(
     history="A monster appears in front of you.",
-    need_roll=False, 
+    need_roll=False,
     roll_number=-1
     )
 
