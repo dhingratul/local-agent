@@ -1,0 +1,2093 @@
+[
+    {
+        "label": "ChatOllama",
+        "importPath": "langchain_community.chat_models",
+        "description": "langchain_community.chat_models",
+        "isExtraImport": true,
+        "detail": "langchain_community.chat_models",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOllama",
+        "importPath": "langchain_community.chat_models",
+        "description": "langchain_community.chat_models",
+        "isExtraImport": true,
+        "detail": "langchain_community.chat_models",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOllama",
+        "importPath": "langchain_community.chat_models",
+        "description": "langchain_community.chat_models",
+        "isExtraImport": true,
+        "detail": "langchain_community.chat_models",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOllama",
+        "importPath": "langchain_community.chat_models",
+        "description": "langchain_community.chat_models",
+        "isExtraImport": true,
+        "detail": "langchain_community.chat_models",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOllama",
+        "importPath": "langchain_community.chat_models",
+        "description": "langchain_community.chat_models",
+        "isExtraImport": true,
+        "detail": "langchain_community.chat_models",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOllama",
+        "importPath": "langchain_community.chat_models",
+        "description": "langchain_community.chat_models",
+        "isExtraImport": true,
+        "detail": "langchain_community.chat_models",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOllama",
+        "importPath": "langchain_community.chat_models",
+        "description": "langchain_community.chat_models",
+        "isExtraImport": true,
+        "detail": "langchain_community.chat_models",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOllama",
+        "importPath": "langchain_community.chat_models",
+        "description": "langchain_community.chat_models",
+        "isExtraImport": true,
+        "detail": "langchain_community.chat_models",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOllama",
+        "importPath": "langchain_community.chat_models",
+        "description": "langchain_community.chat_models",
+        "isExtraImport": true,
+        "detail": "langchain_community.chat_models",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "StrOutputParser",
+        "importPath": "langchain_core.output_parsers",
+        "description": "langchain_core.output_parsers",
+        "isExtraImport": true,
+        "detail": "langchain_core.output_parsers",
+        "documentation": {}
+    },
+    {
+        "label": "StrOutputParser",
+        "importPath": "langchain_core.output_parsers",
+        "description": "langchain_core.output_parsers",
+        "isExtraImport": true,
+        "detail": "langchain_core.output_parsers",
+        "documentation": {}
+    },
+    {
+        "label": "StrOutputParser",
+        "importPath": "langchain_core.output_parsers",
+        "description": "langchain_core.output_parsers",
+        "isExtraImport": true,
+        "detail": "langchain_core.output_parsers",
+        "documentation": {}
+    },
+    {
+        "label": "StrOutputParser",
+        "importPath": "langchain_core.output_parsers",
+        "description": "langchain_core.output_parsers",
+        "isExtraImport": true,
+        "detail": "langchain_core.output_parsers",
+        "documentation": {}
+    },
+    {
+        "label": "StrOutputParser",
+        "importPath": "langchain_core.output_parsers",
+        "description": "langchain_core.output_parsers",
+        "isExtraImport": true,
+        "detail": "langchain_core.output_parsers",
+        "documentation": {}
+    },
+    {
+        "label": "StrOutputParser",
+        "importPath": "langchain_core.output_parsers",
+        "description": "langchain_core.output_parsers",
+        "isExtraImport": true,
+        "detail": "langchain_core.output_parsers",
+        "documentation": {}
+    },
+    {
+        "label": "StrOutputParser",
+        "importPath": "langchain_core.output_parsers",
+        "description": "langchain_core.output_parsers",
+        "isExtraImport": true,
+        "detail": "langchain_core.output_parsers",
+        "documentation": {}
+    },
+    {
+        "label": "StrOutputParser",
+        "importPath": "langchain_core.output_parsers",
+        "description": "langchain_core.output_parsers",
+        "isExtraImport": true,
+        "detail": "langchain_core.output_parsers",
+        "documentation": {}
+    },
+    {
+        "label": "StrOutputParser",
+        "importPath": "langchain_core.output_parsers",
+        "description": "langchain_core.output_parsers",
+        "isExtraImport": true,
+        "detail": "langchain_core.output_parsers",
+        "documentation": {}
+    },
+    {
+        "label": "Graph",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "Graph",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "StateGraph",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "END",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "StateGraph",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "END",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "StateGraph",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "END",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "StateGraph",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "END",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "ConsoleCallbackHandler",
+        "importPath": "langchain.callbacks.tracers",
+        "description": "langchain.callbacks.tracers",
+        "isExtraImport": true,
+        "detail": "langchain.callbacks.tracers",
+        "documentation": {}
+    },
+    {
+        "label": "TypedDict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TypedDict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TypedDict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TypedDict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TypedDict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TypedDict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TypedDict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "inspect",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "inspect",
+        "description": "inspect",
+        "detail": "inspect",
+        "documentation": {}
+    },
+    {
+        "label": "OllamaEmbeddings",
+        "importPath": "langchain_community.embeddings",
+        "description": "langchain_community.embeddings",
+        "isExtraImport": true,
+        "detail": "langchain_community.embeddings",
+        "documentation": {}
+    },
+    {
+        "label": "OllamaEmbeddings",
+        "importPath": "langchain_community.embeddings",
+        "description": "langchain_community.embeddings",
+        "isExtraImport": true,
+        "detail": "langchain_community.embeddings",
+        "documentation": {}
+    },
+    {
+        "label": "OllamaEmbeddings",
+        "importPath": "langchain_community.embeddings",
+        "description": "langchain_community.embeddings",
+        "isExtraImport": true,
+        "detail": "langchain_community.embeddings",
+        "documentation": {}
+    },
+    {
+        "label": "OllamaEmbeddings",
+        "importPath": "langchain_community.embeddings",
+        "description": "langchain_community.embeddings",
+        "isExtraImport": true,
+        "detail": "langchain_community.embeddings",
+        "documentation": {}
+    },
+    {
+        "label": "chromadb",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "chromadb",
+        "description": "chromadb",
+        "detail": "chromadb",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "local_llm",
+        "kind": 5,
+        "importPath": "01 LangChain Hello World.main",
+        "description": "01 LangChain Hello World.main",
+        "peekOfCode": "local_llm = \"phi3\"\n# Initialize the ChatOllama model with desired parameters\nllm = ChatOllama(model=local_llm, format=\"json\", temperature=0)\n# Define the prompt template\ntemplate = \"Question: {question}\\nAnswer: Let's think step by step.\"\nprompt = PromptTemplate.from_template(template)\n# Format the prompt with the input variable\ninput_question = \"Write merge sort\"\nformatted_prompt = prompt.format(question=input_question)\n# define langchain",
+        "detail": "01 LangChain Hello World.main",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "01 LangChain Hello World.main",
+        "description": "01 LangChain Hello World.main",
+        "peekOfCode": "llm = ChatOllama(model=local_llm, format=\"json\", temperature=0)\n# Define the prompt template\ntemplate = \"Question: {question}\\nAnswer: Let's think step by step.\"\nprompt = PromptTemplate.from_template(template)\n# Format the prompt with the input variable\ninput_question = \"Write merge sort\"\nformatted_prompt = prompt.format(question=input_question)\n# define langchain\nllm_chain = prompt | llm | StrOutputParser()\ngeneration = llm_chain.invoke(formatted_prompt)",
+        "detail": "01 LangChain Hello World.main",
+        "documentation": {}
+    },
+    {
+        "label": "template",
+        "kind": 5,
+        "importPath": "01 LangChain Hello World.main",
+        "description": "01 LangChain Hello World.main",
+        "peekOfCode": "template = \"Question: {question}\\nAnswer: Let's think step by step.\"\nprompt = PromptTemplate.from_template(template)\n# Format the prompt with the input variable\ninput_question = \"Write merge sort\"\nformatted_prompt = prompt.format(question=input_question)\n# define langchain\nllm_chain = prompt | llm | StrOutputParser()\ngeneration = llm_chain.invoke(formatted_prompt)\nprint(generation)",
+        "detail": "01 LangChain Hello World.main",
+        "documentation": {}
+    },
+    {
+        "label": "prompt",
+        "kind": 5,
+        "importPath": "01 LangChain Hello World.main",
+        "description": "01 LangChain Hello World.main",
+        "peekOfCode": "prompt = PromptTemplate.from_template(template)\n# Format the prompt with the input variable\ninput_question = \"Write merge sort\"\nformatted_prompt = prompt.format(question=input_question)\n# define langchain\nllm_chain = prompt | llm | StrOutputParser()\ngeneration = llm_chain.invoke(formatted_prompt)\nprint(generation)",
+        "detail": "01 LangChain Hello World.main",
+        "documentation": {}
+    },
+    {
+        "label": "input_question",
+        "kind": 5,
+        "importPath": "01 LangChain Hello World.main",
+        "description": "01 LangChain Hello World.main",
+        "peekOfCode": "input_question = \"Write merge sort\"\nformatted_prompt = prompt.format(question=input_question)\n# define langchain\nllm_chain = prompt | llm | StrOutputParser()\ngeneration = llm_chain.invoke(formatted_prompt)\nprint(generation)",
+        "detail": "01 LangChain Hello World.main",
+        "documentation": {}
+    },
+    {
+        "label": "formatted_prompt",
+        "kind": 5,
+        "importPath": "01 LangChain Hello World.main",
+        "description": "01 LangChain Hello World.main",
+        "peekOfCode": "formatted_prompt = prompt.format(question=input_question)\n# define langchain\nllm_chain = prompt | llm | StrOutputParser()\ngeneration = llm_chain.invoke(formatted_prompt)\nprint(generation)",
+        "detail": "01 LangChain Hello World.main",
+        "documentation": {}
+    },
+    {
+        "label": "llm_chain",
+        "kind": 5,
+        "importPath": "01 LangChain Hello World.main",
+        "description": "01 LangChain Hello World.main",
+        "peekOfCode": "llm_chain = prompt | llm | StrOutputParser()\ngeneration = llm_chain.invoke(formatted_prompt)\nprint(generation)",
+        "detail": "01 LangChain Hello World.main",
+        "documentation": {}
+    },
+    {
+        "label": "generation",
+        "kind": 5,
+        "importPath": "01 LangChain Hello World.main",
+        "description": "01 LangChain Hello World.main",
+        "peekOfCode": "generation = llm_chain.invoke(formatted_prompt)\nprint(generation)",
+        "detail": "01 LangChain Hello World.main",
+        "documentation": {}
+    },
+    {
+        "label": "function_1",
+        "kind": 2,
+        "importPath": "02 LangGraph Hello World.main",
+        "description": "02 LangGraph Hello World.main",
+        "peekOfCode": "def function_1(input_1):\n    return input_1 + \" Hello \"\ndef function_2(input_2):\n    return input_2 + \"World!\"\n# Define a Langchain graph\nworkflow = Graph()\nworkflow.add_node(\"node_1\", function_1)\nworkflow.add_node(\"node_2\", function_2)\nworkflow.add_edge('node_1', 'node_2')\nworkflow.set_entry_point(\"node_1\")",
+        "detail": "02 LangGraph Hello World.main",
+        "documentation": {}
+    },
+    {
+        "label": "function_2",
+        "kind": 2,
+        "importPath": "02 LangGraph Hello World.main",
+        "description": "02 LangGraph Hello World.main",
+        "peekOfCode": "def function_2(input_2):\n    return input_2 + \"World!\"\n# Define a Langchain graph\nworkflow = Graph()\nworkflow.add_node(\"node_1\", function_1)\nworkflow.add_node(\"node_2\", function_2)\nworkflow.add_edge('node_1', 'node_2')\nworkflow.set_entry_point(\"node_1\")\nworkflow.set_finish_point(\"node_2\")\napp = workflow.compile()",
+        "detail": "02 LangGraph Hello World.main",
+        "documentation": {}
+    },
+    {
+        "label": "workflow",
+        "kind": 5,
+        "importPath": "02 LangGraph Hello World.main",
+        "description": "02 LangGraph Hello World.main",
+        "peekOfCode": "workflow = Graph()\nworkflow.add_node(\"node_1\", function_1)\nworkflow.add_node(\"node_2\", function_2)\nworkflow.add_edge('node_1', 'node_2')\nworkflow.set_entry_point(\"node_1\")\nworkflow.set_finish_point(\"node_2\")\napp = workflow.compile()\nprint(app.invoke(\"langgraph: \"))",
+        "detail": "02 LangGraph Hello World.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "02 LangGraph Hello World.main",
+        "description": "02 LangGraph Hello World.main",
+        "peekOfCode": "app = workflow.compile()\nprint(app.invoke(\"langgraph: \"))",
+        "detail": "02 LangGraph Hello World.main",
+        "documentation": {}
+    },
+    {
+        "label": "Agent",
+        "kind": 2,
+        "importPath": "03 Graph Chain Hello World.main",
+        "description": "03 Graph Chain Hello World.main",
+        "peekOfCode": "def Agent(question):\n    # Define the prompt template\n    template = \"\"\"\n        Question: {question} Let's think step by step.\n        your output format is filename:\"\" and  content:\"\"\n        make sure your output is right json\n    \"\"\"\n    prompt = PromptTemplate.from_template(template)\n    # Format the prompt with the input variable\n    formatted_prompt = prompt.format(question=question)",
+        "detail": "03 Graph Chain Hello World.main",
+        "documentation": {}
+    },
+    {
+        "label": "Tool",
+        "kind": 2,
+        "importPath": "03 Graph Chain Hello World.main",
+        "description": "03 Graph Chain Hello World.main",
+        "peekOfCode": "def Tool(input):\n    print(\"Tool Stage input:\" + input)\n    # Parse the JSON input\n    data = json.loads(input)\n    # Extract the \"content\" and \"filename\" parts\n    content = data.get(\"content\", \"\")\n    filename = data.get(\"filename\", \"output.md\")\n    # Write the content to the specified filename\n    with open(filename, 'w') as file:\n        file.write(content)",
+        "detail": "03 Graph Chain Hello World.main",
+        "documentation": {}
+    },
+    {
+        "label": "local_llm",
+        "kind": 5,
+        "importPath": "03 Graph Chain Hello World.main",
+        "description": "03 Graph Chain Hello World.main",
+        "peekOfCode": "local_llm = \"phi3\"\n# Initialize the ChatOllama model with desired parameters\nllm = ChatOllama(model=local_llm, format=\"json\", temperature=0)\ndef Agent(question):\n    # Define the prompt template\n    template = \"\"\"\n        Question: {question} Let's think step by step.\n        your output format is filename:\"\" and  content:\"\"\n        make sure your output is right json\n    \"\"\"",
+        "detail": "03 Graph Chain Hello World.main",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "03 Graph Chain Hello World.main",
+        "description": "03 Graph Chain Hello World.main",
+        "peekOfCode": "llm = ChatOllama(model=local_llm, format=\"json\", temperature=0)\ndef Agent(question):\n    # Define the prompt template\n    template = \"\"\"\n        Question: {question} Let's think step by step.\n        your output format is filename:\"\" and  content:\"\"\n        make sure your output is right json\n    \"\"\"\n    prompt = PromptTemplate.from_template(template)\n    # Format the prompt with the input variable",
+        "detail": "03 Graph Chain Hello World.main",
+        "documentation": {}
+    },
+    {
+        "label": "workflow",
+        "kind": 5,
+        "importPath": "03 Graph Chain Hello World.main",
+        "description": "03 Graph Chain Hello World.main",
+        "peekOfCode": "workflow = Graph()\nworkflow.add_node(\"agent\", Agent)\nworkflow.add_node(\"tool\", Tool)\nworkflow.add_edge('agent', 'tool')\nworkflow.set_entry_point(\"agent\")\nworkflow.set_finish_point(\"tool\")\napp = workflow.compile()\napp.invoke(\"Write an article about Independence struggle of India, content is in temp.md \", config={'callbacks': [ConsoleCallbackHandler()]})",
+        "detail": "03 Graph Chain Hello World.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "03 Graph Chain Hello World.main",
+        "description": "03 Graph Chain Hello World.main",
+        "peekOfCode": "app = workflow.compile()\napp.invoke(\"Write an article about Independence struggle of India, content is in temp.md \", config={'callbacks': [ConsoleCallbackHandler()]})",
+        "detail": "03 Graph Chain Hello World.main",
+        "documentation": {}
+    },
+    {
+        "label": "LotteryState",
+        "kind": 6,
+        "importPath": "04 State Graph.main",
+        "description": "04 State Graph.main",
+        "peekOfCode": "class LotteryState(TypedDict):\n    input: str\n    winnings: Union[str, None]\n    missed: Union[str, None]\n# for node\ndef BuyLottery(state: LotteryState):\n    random_number = random.randint(0, 2)\n    print(\"buy number: \" + str(random_number))\n    state['input'] = random_number\n    return state",
+        "detail": "04 State Graph.main",
+        "documentation": {}
+    },
+    {
+        "label": "BuyLottery",
+        "kind": 2,
+        "importPath": "04 State Graph.main",
+        "description": "04 State Graph.main",
+        "peekOfCode": "def BuyLottery(state: LotteryState):\n    random_number = random.randint(0, 2)\n    print(\"buy number: \" + str(random_number))\n    state['input'] = random_number\n    return state\n# for node\ndef Checking(state: LotteryState):\n    prize_number = random.randint(0, 2)\n    print(\"prize number: \" + str(prize_number))\n    if state['input'] == prize_number:",
+        "detail": "04 State Graph.main",
+        "documentation": {}
+    },
+    {
+        "label": "Checking",
+        "kind": 2,
+        "importPath": "04 State Graph.main",
+        "description": "04 State Graph.main",
+        "peekOfCode": "def Checking(state: LotteryState):\n    prize_number = random.randint(0, 2)\n    print(\"prize number: \" + str(prize_number))\n    if state['input'] == prize_number:\n        state['winnings'] = \"win\"\n        return state\n    else:\n        state['missed'] = \"missed\"\n        return state\n# for conditional edges",
+        "detail": "04 State Graph.main",
+        "documentation": {}
+    },
+    {
+        "label": "checking_result",
+        "kind": 2,
+        "importPath": "04 State Graph.main",
+        "description": "04 State Graph.main",
+        "peekOfCode": "def checking_result(state: LotteryState) -> Literal[\"win\", \"missed\"]:\n    if state.get(\"winnings\") == \"win\":\n        print(\"You win! Go home.\")\n        return \"win\"\n    else:\n        print(\"You missed. Buy again.\")\n        return \"missed\"\n# Define a LangGraph state machine\nworkflow = StateGraph(LotteryState)\n# Add nodes to the workflow",
+        "detail": "04 State Graph.main",
+        "documentation": {}
+    },
+    {
+        "label": "workflow",
+        "kind": 5,
+        "importPath": "04 State Graph.main",
+        "description": "04 State Graph.main",
+        "peekOfCode": "workflow = StateGraph(LotteryState)\n# Add nodes to the workflow\nworkflow.add_node(\"buy\", BuyLottery)\nworkflow.add_node(\"check\", Checking)\n# Set the entry point of the workflow\nworkflow.set_entry_point(\"buy\")\n# Define edges between nodes\nworkflow.add_edge(\"buy\", \"check\")\n# Add conditional edges\nworkflow.add_conditional_edges(",
+        "detail": "04 State Graph.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "04 State Graph.main",
+        "description": "04 State Graph.main",
+        "peekOfCode": "app = workflow.compile()\n# Start the lottery process\nfor s in app.stream({\"input\": \"\", \"winnings\": None, \"missed\": None}):\n    print(s)",
+        "detail": "04 State Graph.main",
+        "documentation": {}
+    },
+    {
+        "label": "TRPGState",
+        "kind": 6,
+        "importPath": "05 Agents with Tool.main",
+        "description": "05 Agents with Tool.main",
+        "peekOfCode": "class TRPGState(TypedDict):\n    history: str\n    need_roll: bool\n    roll_number: int\n# Define the base class for tasks\nclass AgentBase(ABC):\n    def __init__(self, state: TRPGState):\n        self.state = state\n    @abstractmethod\n    def get_prompt_template(self) -> str:",
+        "detail": "05 Agents with Tool.main",
+        "documentation": {}
+    },
+    {
+        "label": "AgentBase",
+        "kind": 6,
+        "importPath": "05 Agents with Tool.main",
+        "description": "05 Agents with Tool.main",
+        "peekOfCode": "class AgentBase(ABC):\n    def __init__(self, state: TRPGState):\n        self.state = state\n    @abstractmethod\n    def get_prompt_template(self) -> str:\n        pass\n    def execute(self) -> TRPGState:\n        # Clip the history to the last 8000 characters\n        self.state[\"history\"] = clip_history(self.state[\"history\"])\n        # Define the prompt template",
+        "detail": "05 Agents with Tool.main",
+        "documentation": {}
+    },
+    {
+        "label": "DM",
+        "kind": 6,
+        "importPath": "05 Agents with Tool.main",
+        "description": "05 Agents with Tool.main",
+        "peekOfCode": "class DM(AgentBase):\n    def get_prompt_template(self) -> str:\n        return \"\"\"\n            {history}\n            As DnD DM, describe the current scenario for the player. (in short, we do fast play)\n            sometimes roll dice, sometimes not.\n            player roll {roll_number}, if > 0 you need explain what the roll affect result, start from your roll {roll_number} blablabla\n            Output the JSON in the format: {{\"scenario\": \"your action description\", \"need_roll\": True/False}}\n        \"\"\"\nclass Player(AgentBase):",
+        "detail": "05 Agents with Tool.main",
+        "documentation": {}
+    },
+    {
+        "label": "Player",
+        "kind": 6,
+        "importPath": "05 Agents with Tool.main",
+        "description": "05 Agents with Tool.main",
+        "peekOfCode": "class Player(AgentBase):\n    def get_prompt_template(self) -> str:\n        return \"\"\"\n            Here is the scenario: {history}\n            As a Player, I want to perform an action. (in short, we do fast play)\n            Output the JSON in the format: {{\"action\": \"I want xxxx\"}}\n        \"\"\"\n# Define tool\ndef RollDice(state: TRPGState) -> TRPGState:\n    random_number = random.randint(1, 20)",
+        "detail": "05 Agents with Tool.main",
+        "documentation": {}
+    },
+    {
+        "label": "clip_history",
+        "kind": 2,
+        "importPath": "05 Agents with Tool.main",
+        "description": "05 Agents with Tool.main",
+        "peekOfCode": "def clip_history(history: str, max_chars: int = 8000) -> str:\n    if len(history) > max_chars:\n        return history[-max_chars:]\n    return history\n# Define the state for our workflow\nclass TRPGState(TypedDict):\n    history: str\n    need_roll: bool\n    roll_number: int\n# Define the base class for tasks",
+        "detail": "05 Agents with Tool.main",
+        "documentation": {}
+    },
+    {
+        "label": "RollDice",
+        "kind": 2,
+        "importPath": "05 Agents with Tool.main",
+        "description": "05 Agents with Tool.main",
+        "peekOfCode": "def RollDice(state: TRPGState) -> TRPGState:\n    random_number = random.randint(1, 20)\n    state[\"history\"] += \"\\n\" +  \"roll result:\" + str(random_number)\n    state[\"history\"] = clip_history(state[\"history\"])\n    state[\"need_roll\"] = False\n    state[\"roll_number\"] = random_number\n    return state\n# for conditional edges\ndef check_need_roll(state: TRPGState) -> Literal[\"roll\", \"not roll\"]:\n    if state.get(\"need_roll\") == True:",
+        "detail": "05 Agents with Tool.main",
+        "documentation": {}
+    },
+    {
+        "label": "check_need_roll",
+        "kind": 2,
+        "importPath": "05 Agents with Tool.main",
+        "description": "05 Agents with Tool.main",
+        "peekOfCode": "def check_need_roll(state: TRPGState) -> Literal[\"roll\", \"not roll\"]:\n    if state.get(\"need_roll\") == True:\n        return \"roll\"\n    else:\n        return \"not roll\"\n# Define the state machine\nworkflow = StateGraph(TRPGState)\n# Initialize tasks for DM and Player\ndef dm_task(state: TRPGState) -> TRPGState:\n    return DM(state).execute()",
+        "detail": "05 Agents with Tool.main",
+        "documentation": {}
+    },
+    {
+        "label": "dm_task",
+        "kind": 2,
+        "importPath": "05 Agents with Tool.main",
+        "description": "05 Agents with Tool.main",
+        "peekOfCode": "def dm_task(state: TRPGState) -> TRPGState:\n    return DM(state).execute()\ndef player_task(state: TRPGState) -> TRPGState:\n    return Player(state).execute()\nworkflow.add_node(\"dm\", dm_task)\nworkflow.add_node(\"player\", player_task)\nworkflow.add_node(\"RollDice\", RollDice)\nworkflow.set_entry_point(\"dm\")\n# Define edges between nodes\nworkflow.add_conditional_edges(",
+        "detail": "05 Agents with Tool.main",
+        "documentation": {}
+    },
+    {
+        "label": "player_task",
+        "kind": 2,
+        "importPath": "05 Agents with Tool.main",
+        "description": "05 Agents with Tool.main",
+        "peekOfCode": "def player_task(state: TRPGState) -> TRPGState:\n    return Player(state).execute()\nworkflow.add_node(\"dm\", dm_task)\nworkflow.add_node(\"player\", player_task)\nworkflow.add_node(\"RollDice\", RollDice)\nworkflow.set_entry_point(\"dm\")\n# Define edges between nodes\nworkflow.add_conditional_edges(\n    \"dm\",\n    check_need_roll,",
+        "detail": "05 Agents with Tool.main",
+        "documentation": {}
+    },
+    {
+        "label": "local_llm",
+        "kind": 5,
+        "importPath": "05 Agents with Tool.main",
+        "description": "05 Agents with Tool.main",
+        "peekOfCode": "local_llm = \"mistral\"\nllm = ChatOllama(model=local_llm, format=\"json\", temperature=0)\n# Clip the history to the last 8000 characters\ndef clip_history(history: str, max_chars: int = 8000) -> str:\n    if len(history) > max_chars:\n        return history[-max_chars:]\n    return history\n# Define the state for our workflow\nclass TRPGState(TypedDict):\n    history: str",
+        "detail": "05 Agents with Tool.main",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "05 Agents with Tool.main",
+        "description": "05 Agents with Tool.main",
+        "peekOfCode": "llm = ChatOllama(model=local_llm, format=\"json\", temperature=0)\n# Clip the history to the last 8000 characters\ndef clip_history(history: str, max_chars: int = 8000) -> str:\n    if len(history) > max_chars:\n        return history[-max_chars:]\n    return history\n# Define the state for our workflow\nclass TRPGState(TypedDict):\n    history: str\n    need_roll: bool",
+        "detail": "05 Agents with Tool.main",
+        "documentation": {}
+    },
+    {
+        "label": "workflow",
+        "kind": 5,
+        "importPath": "05 Agents with Tool.main",
+        "description": "05 Agents with Tool.main",
+        "peekOfCode": "workflow = StateGraph(TRPGState)\n# Initialize tasks for DM and Player\ndef dm_task(state: TRPGState) -> TRPGState:\n    return DM(state).execute()\ndef player_task(state: TRPGState) -> TRPGState:\n    return Player(state).execute()\nworkflow.add_node(\"dm\", dm_task)\nworkflow.add_node(\"player\", player_task)\nworkflow.add_node(\"RollDice\", RollDice)\nworkflow.set_entry_point(\"dm\")",
+        "detail": "05 Agents with Tool.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "05 Agents with Tool.main",
+        "description": "05 Agents with Tool.main",
+        "peekOfCode": "app = workflow.compile()\n# Initialize the state\ninitial_state = TRPGState(\n    history=\"A monster appears in front of you.\",\n    need_roll=False,\n    roll_number=-1\n    )\nfor s in app.stream(initial_state):\n    # Print the current state\n    print(\"for s in app.stream(initial_state):\")",
+        "detail": "05 Agents with Tool.main",
+        "documentation": {}
+    },
+    {
+        "label": "initial_state",
+        "kind": 5,
+        "importPath": "05 Agents with Tool.main",
+        "description": "05 Agents with Tool.main",
+        "peekOfCode": "initial_state = TRPGState(\n    history=\"A monster appears in front of you.\",\n    need_roll=False,\n    roll_number=-1\n    )\nfor s in app.stream(initial_state):\n    # Print the current state\n    print(\"for s in app.stream(initial_state):\")\n    print(s)",
+        "detail": "05 Agents with Tool.main",
+        "documentation": {}
+    },
+    {
+        "label": "ToolState",
+        "kind": 6,
+        "importPath": "06 Agent Choose Tool.old.01",
+        "description": "06 Agent Choose Tool.old.01",
+        "peekOfCode": "class ToolState(TypedDict):\n    history: str\n# Clip the history to the last 8000 characters\ndef clip_history(history: str, max_chars: int = 8000) -> str:\n    if len(history) > max_chars:\n        return history[-max_chars:]\n    return history\nclass AgentBase:\n    def __init__(self, state: ToolState):\n        self.state = state",
+        "detail": "06 Agent Choose Tool.old.01",
+        "documentation": {}
+    },
+    {
+        "label": "AgentBase",
+        "kind": 6,
+        "importPath": "06 Agent Choose Tool.old.01",
+        "description": "06 Agent Choose Tool.old.01",
+        "peekOfCode": "class AgentBase:\n    def __init__(self, state: ToolState):\n        self.state = state\n    def execute(self) -> ToolState:\n        self.state[\"history\"] = clip_history(self.state[\"history\"])\n        choice = self.fake_llm_output(self.state[\"history\"])\n        tool_name = choice[\"use_tool\"]\n        args = choice[\"args\"]\n        result = globals()[tool_name](*args)\n        self.state[\"history\"] += f\"\\nQuestion: {self.state['history']}\\nResponse: {result}\\n\"",
+        "detail": "06 Agent Choose Tool.old.01",
+        "documentation": {}
+    },
+    {
+        "label": "Robot",
+        "kind": 6,
+        "importPath": "06 Agent Choose Tool.old.01",
+        "description": "06 Agent Choose Tool.old.01",
+        "peekOfCode": "class Robot(AgentBase):\n    pass\n# Initialize the state\ninitial_state = ToolState(\n    history=\"help me add 3 and 6\"\n)\n# Create a robot instance and handle the question\nrobot = Robot(initial_state)\nfinal_state = robot.execute()\n# Print the final state history",
+        "detail": "06 Agent Choose Tool.old.01",
+        "documentation": {}
+    },
+    {
+        "label": "register_tool",
+        "kind": 2,
+        "importPath": "06 Agent Choose Tool.old.01",
+        "description": "06 Agent Choose Tool.old.01",
+        "peekOfCode": "def register_tool(func: Callable) -> Callable:\n    signature = inspect.signature(func)\n    docstring = func.__doc__ or \"\"\n    params = [\n        {\"name\": param.name, \"type\": str(param.annotation)}\n        for param in signature.parameters.values()\n    ]\n    tool_info = {\n        \"name\": func.__name__,\n        \"description\": docstring,",
+        "detail": "06 Agent Choose Tool.old.01",
+        "documentation": {}
+    },
+    {
+        "label": "add",
+        "kind": 2,
+        "importPath": "06 Agent Choose Tool.old.01",
+        "description": "06 Agent Choose Tool.old.01",
+        "peekOfCode": "def add(a: int, b: int) -> int:\n    \"\"\"\n    :function: add   \n    :param int a: First number to add\n    :param int b: Second number to add\n    :return: Sum of a and b\n    \"\"\"\n    return a + b\n@register_tool\ndef ls() -> List[str]:",
+        "detail": "06 Agent Choose Tool.old.01",
+        "documentation": {}
+    },
+    {
+        "label": "ls",
+        "kind": 2,
+        "importPath": "06 Agent Choose Tool.old.01",
+        "description": "06 Agent Choose Tool.old.01",
+        "peekOfCode": "def ls() -> List[str]:\n    \"\"\"\n    :function: ls\n    :return: List of filenames in the current directory\n    \"\"\"\n    # Fake implementation\n    return [\"file1.txt\", \"file2.txt\", \"file3.txt\"]\n@register_tool\ndef filewrite(name: str, content: str) -> None:\n    \"\"\"",
+        "detail": "06 Agent Choose Tool.old.01",
+        "documentation": {}
+    },
+    {
+        "label": "filewrite",
+        "kind": 2,
+        "importPath": "06 Agent Choose Tool.old.01",
+        "description": "06 Agent Choose Tool.old.01",
+        "peekOfCode": "def filewrite(name: str, content: str) -> None:\n    \"\"\"\n    :function: filewrite\n    :param str name: Name of the file\n    :param str content: Content to write to the file\n    :return: None\n    \"\"\"\n    # Fake implementation\n    print(f\"Writing to {name}: {content}\")\n# Define the state for our workflow",
+        "detail": "06 Agent Choose Tool.old.01",
+        "documentation": {}
+    },
+    {
+        "label": "clip_history",
+        "kind": 2,
+        "importPath": "06 Agent Choose Tool.old.01",
+        "description": "06 Agent Choose Tool.old.01",
+        "peekOfCode": "def clip_history(history: str, max_chars: int = 8000) -> str:\n    if len(history) > max_chars:\n        return history[-max_chars:]\n    return history\nclass AgentBase:\n    def __init__(self, state: ToolState):\n        self.state = state\n    def execute(self) -> ToolState:\n        self.state[\"history\"] = clip_history(self.state[\"history\"])\n        choice = self.fake_llm_output(self.state[\"history\"])",
+        "detail": "06 Agent Choose Tool.old.01",
+        "documentation": {}
+    },
+    {
+        "label": "initial_state",
+        "kind": 5,
+        "importPath": "06 Agent Choose Tool.old.01",
+        "description": "06 Agent Choose Tool.old.01",
+        "peekOfCode": "initial_state = ToolState(\n    history=\"help me add 3 and 6\"\n)\n# Create a robot instance and handle the question\nrobot = Robot(initial_state)\nfinal_state = robot.execute()\n# Print the final state history\nprint(final_state[\"history\"])",
+        "detail": "06 Agent Choose Tool.old.01",
+        "documentation": {}
+    },
+    {
+        "label": "robot",
+        "kind": 5,
+        "importPath": "06 Agent Choose Tool.old.01",
+        "description": "06 Agent Choose Tool.old.01",
+        "peekOfCode": "robot = Robot(initial_state)\nfinal_state = robot.execute()\n# Print the final state history\nprint(final_state[\"history\"])",
+        "detail": "06 Agent Choose Tool.old.01",
+        "documentation": {}
+    },
+    {
+        "label": "final_state",
+        "kind": 5,
+        "importPath": "06 Agent Choose Tool.old.01",
+        "description": "06 Agent Choose Tool.old.01",
+        "peekOfCode": "final_state = robot.execute()\n# Print the final state history\nprint(final_state[\"history\"])",
+        "detail": "06 Agent Choose Tool.old.01",
+        "documentation": {}
+    },
+    {
+        "label": "ToolState",
+        "kind": 6,
+        "importPath": "06 Agent Choose Tool.old.02",
+        "description": "06 Agent Choose Tool.old.02",
+        "peekOfCode": "class ToolState(TypedDict):\n    history: str\n# Clip the history to the last 8000 characters\ndef clip_history(history: str, max_chars: int = 8000) -> str:\n    if len(history) > max_chars:\n        return history[-max_chars:]\n    return history\nclass AgentBase:\n    def __init__(self, state: ToolState):\n        self.state = state",
+        "detail": "06 Agent Choose Tool.old.02",
+        "documentation": {}
+    },
+    {
+        "label": "AgentBase",
+        "kind": 6,
+        "importPath": "06 Agent Choose Tool.old.02",
+        "description": "06 Agent Choose Tool.old.02",
+        "peekOfCode": "class AgentBase:\n    def __init__(self, state: ToolState):\n        self.state = state\n    def execute(self) -> ToolState:\n        self.state[\"history\"] = clip_history(self.state[\"history\"])\n        choice = self.llm_output(self.state[\"history\"])\n        tool_name = choice[\"use_tool\"]\n        args = self.convert_args(tool_name, choice[\"args\"])\n        result = globals()[tool_name](*args)\n        self.state[\"history\"] += f\"\\nQuestion: {self.state['history']}\\nResponse: {result}\\n\"",
+        "detail": "06 Agent Choose Tool.old.02",
+        "documentation": {}
+    },
+    {
+        "label": "Robot",
+        "kind": 6,
+        "importPath": "06 Agent Choose Tool.old.02",
+        "description": "06 Agent Choose Tool.old.02",
+        "peekOfCode": "class Robot(AgentBase):\n    pass\n# Initialize the state\ninitial_state = ToolState(\n    history=\"help me add 3 and 6\"\n)\n# Create a robot instance and handle the question\nrobot = Robot(initial_state)\nfinal_state = robot.execute()\n# Print the final state history",
+        "detail": "06 Agent Choose Tool.old.02",
+        "documentation": {}
+    },
+    {
+        "label": "register_tool",
+        "kind": 2,
+        "importPath": "06 Agent Choose Tool.old.02",
+        "description": "06 Agent Choose Tool.old.02",
+        "peekOfCode": "def register_tool(func: Callable) -> Callable:\n    signature = inspect.signature(func)\n    docstring = func.__doc__ or \"\"\n    params = [\n        {\"name\": param.name, \"type\": param.annotation}\n        for param in signature.parameters.values()\n    ]\n    tool_info = {\n        \"name\": func.__name__,\n        \"description\": docstring,",
+        "detail": "06 Agent Choose Tool.old.02",
+        "documentation": {}
+    },
+    {
+        "label": "add",
+        "kind": 2,
+        "importPath": "06 Agent Choose Tool.old.02",
+        "description": "06 Agent Choose Tool.old.02",
+        "peekOfCode": "def add(a: int, b: int) -> int:\n    \"\"\"\n    :function: add   \n    :param int a: First number to add\n    :param int b: Second number to add\n    :return: Sum of a and b\n    \"\"\"\n    return a + b\n@register_tool\ndef ls() -> List[str]:",
+        "detail": "06 Agent Choose Tool.old.02",
+        "documentation": {}
+    },
+    {
+        "label": "ls",
+        "kind": 2,
+        "importPath": "06 Agent Choose Tool.old.02",
+        "description": "06 Agent Choose Tool.old.02",
+        "peekOfCode": "def ls() -> List[str]:\n    \"\"\"\n    :function: ls\n    :return: List of filenames in the current directory\n    \"\"\"\n    # Fake implementation\n    return [\"file1.txt\", \"file2.txt\", \"file3.txt\"]\n@register_tool\ndef filewrite(name: str, content: str) -> None:\n    \"\"\"",
+        "detail": "06 Agent Choose Tool.old.02",
+        "documentation": {}
+    },
+    {
+        "label": "filewrite",
+        "kind": 2,
+        "importPath": "06 Agent Choose Tool.old.02",
+        "description": "06 Agent Choose Tool.old.02",
+        "peekOfCode": "def filewrite(name: str, content: str) -> None:\n    \"\"\"\n    :function: filewrite\n    :param str name: Name of the file\n    :param str content: Content to write to the file\n    :return: None\n    \"\"\"\n    # Fake implementation\n    print(f\"Writing to {name}: {content}\")\n# Define the state for our workflow",
+        "detail": "06 Agent Choose Tool.old.02",
+        "documentation": {}
+    },
+    {
+        "label": "clip_history",
+        "kind": 2,
+        "importPath": "06 Agent Choose Tool.old.02",
+        "description": "06 Agent Choose Tool.old.02",
+        "peekOfCode": "def clip_history(history: str, max_chars: int = 8000) -> str:\n    if len(history) > max_chars:\n        return history[-max_chars:]\n    return history\nclass AgentBase:\n    def __init__(self, state: ToolState):\n        self.state = state\n    def execute(self) -> ToolState:\n        self.state[\"history\"] = clip_history(self.state[\"history\"])\n        choice = self.llm_output(self.state[\"history\"])",
+        "detail": "06 Agent Choose Tool.old.02",
+        "documentation": {}
+    },
+    {
+        "label": "initial_state",
+        "kind": 5,
+        "importPath": "06 Agent Choose Tool.old.02",
+        "description": "06 Agent Choose Tool.old.02",
+        "peekOfCode": "initial_state = ToolState(\n    history=\"help me add 3 and 6\"\n)\n# Create a robot instance and handle the question\nrobot = Robot(initial_state)\nfinal_state = robot.execute()\n# Print the final state history\nprint(f\"Final state history: {final_state['history']}\")\n# Initialize the state for the second question\ninitial_state = ToolState(",
+        "detail": "06 Agent Choose Tool.old.02",
+        "documentation": {}
+    },
+    {
+        "label": "robot",
+        "kind": 5,
+        "importPath": "06 Agent Choose Tool.old.02",
+        "description": "06 Agent Choose Tool.old.02",
+        "peekOfCode": "robot = Robot(initial_state)\nfinal_state = robot.execute()\n# Print the final state history\nprint(f\"Final state history: {final_state['history']}\")\n# Initialize the state for the second question\ninitial_state = ToolState(\n    history=\"help me see what files we have now\"\n)\n# Create a robot instance and handle the question\nrobot = Robot(initial_state)",
+        "detail": "06 Agent Choose Tool.old.02",
+        "documentation": {}
+    },
+    {
+        "label": "final_state",
+        "kind": 5,
+        "importPath": "06 Agent Choose Tool.old.02",
+        "description": "06 Agent Choose Tool.old.02",
+        "peekOfCode": "final_state = robot.execute()\n# Print the final state history\nprint(f\"Final state history: {final_state['history']}\")\n# Initialize the state for the second question\ninitial_state = ToolState(\n    history=\"help me see what files we have now\"\n)\n# Create a robot instance and handle the question\nrobot = Robot(initial_state)\nfinal_state = robot.execute()",
+        "detail": "06 Agent Choose Tool.old.02",
+        "documentation": {}
+    },
+    {
+        "label": "initial_state",
+        "kind": 5,
+        "importPath": "06 Agent Choose Tool.old.02",
+        "description": "06 Agent Choose Tool.old.02",
+        "peekOfCode": "initial_state = ToolState(\n    history=\"help me see what files we have now\"\n)\n# Create a robot instance and handle the question\nrobot = Robot(initial_state)\nfinal_state = robot.execute()\n# Print the final state history\nprint(f\"Final state history: {final_state['history']}\")",
+        "detail": "06 Agent Choose Tool.old.02",
+        "documentation": {}
+    },
+    {
+        "label": "robot",
+        "kind": 5,
+        "importPath": "06 Agent Choose Tool.old.02",
+        "description": "06 Agent Choose Tool.old.02",
+        "peekOfCode": "robot = Robot(initial_state)\nfinal_state = robot.execute()\n# Print the final state history\nprint(f\"Final state history: {final_state['history']}\")",
+        "detail": "06 Agent Choose Tool.old.02",
+        "documentation": {}
+    },
+    {
+        "label": "final_state",
+        "kind": 5,
+        "importPath": "06 Agent Choose Tool.old.02",
+        "description": "06 Agent Choose Tool.old.02",
+        "peekOfCode": "final_state = robot.execute()\n# Print the final state history\nprint(f\"Final state history: {final_state['history']}\")",
+        "detail": "06 Agent Choose Tool.old.02",
+        "documentation": {}
+    },
+    {
+        "label": "ToolState",
+        "kind": 6,
+        "importPath": "06 Agent Choose Tool.old.03",
+        "description": "06 Agent Choose Tool.old.03",
+        "peekOfCode": "class ToolState(TypedDict):\n    history: str\n    use_tool: bool\n    tool_exec: str\n# Define the base class for tasks\nclass AgentBase(ABC):\n    def __init__(self, state: ToolState):\n        self.state = state\n    @abstractmethod\n    def get_prompt_template(self) -> str:",
+        "detail": "06 Agent Choose Tool.old.03",
+        "documentation": {}
+    },
+    {
+        "label": "AgentBase",
+        "kind": 6,
+        "importPath": "06 Agent Choose Tool.old.03",
+        "description": "06 Agent Choose Tool.old.03",
+        "peekOfCode": "class AgentBase(ABC):\n    def __init__(self, state: ToolState):\n        self.state = state\n    @abstractmethod\n    def get_prompt_template(self) -> str:\n        pass\n    def execute(self) -> ToolState:\n        # Clip the history to the last 8000 characters\n        self.state[\"history\"] = clip_history(self.state[\"history\"])\n        # Define the prompt template",
+        "detail": "06 Agent Choose Tool.old.03",
+        "documentation": {}
+    },
+    {
+        "label": "ChatAgent",
+        "kind": 6,
+        "importPath": "06 Agent Choose Tool.old.03",
+        "description": "06 Agent Choose Tool.old.03",
+        "peekOfCode": "class ChatAgent(AgentBase):\n    def get_prompt_template(self) -> str:\n        return \"\"\"\n            {history}\n            As ChatAgent, decide we need use tool/py or not\n            if we don't need tool, just reply, otherwirse, let tool agent to handle\n            Output the JSON in the format: {{\"scenario\": \"your reply\", \"use_tool\": True/False}}\n        \"\"\"\nclass ToolAgent(AgentBase):\n    def get_prompt_template(self) -> str:",
+        "detail": "06 Agent Choose Tool.old.03",
+        "documentation": {}
+    },
+    {
+        "label": "ToolAgent",
+        "kind": 6,
+        "importPath": "06 Agent Choose Tool.old.03",
+        "description": "06 Agent Choose Tool.old.03",
+        "peekOfCode": "class ToolAgent(AgentBase):\n    def get_prompt_template(self) -> str:\n        return \"\"\"\n            History: {history}\n            Available tools: {tools_list}\n            Based on the history, choose the appropriate tool and arguments in the format:\n            {{\"function\": \"<function>\", \"args\": [<arg1>,<arg2>, ...]}}\n        \"\"\"\ndef ToolExecute(state: ToolState) -> ToolState:\n    choice = self.llm_output(self.state[\"tool_exec\"])",
+        "detail": "06 Agent Choose Tool.old.03",
+        "documentation": {}
+    },
+    {
+        "label": "register_tool",
+        "kind": 2,
+        "importPath": "06 Agent Choose Tool.old.03",
+        "description": "06 Agent Choose Tool.old.03",
+        "peekOfCode": "def register_tool(func: Callable) -> Callable:\n    signature = inspect.signature(func)\n    docstring = func.__doc__ or \"\"\n    params = [\n        {\"name\": param.name, \"type\": param.annotation}\n        for param in signature.parameters.values()\n    ]\n    tool_info = {\n        \"name\": func.__name__,\n        \"description\": docstring,",
+        "detail": "06 Agent Choose Tool.old.03",
+        "documentation": {}
+    },
+    {
+        "label": "add",
+        "kind": 2,
+        "importPath": "06 Agent Choose Tool.old.03",
+        "description": "06 Agent Choose Tool.old.03",
+        "peekOfCode": "def add(a: int, b: int) -> int:\n    \"\"\"\n    :function: add   \n    :param int a: First number to add\n    :param int b: Second number to add\n    :return: Sum of a and b\n    \"\"\"\n    return a + b\n@register_tool\ndef ls() -> List[str]:",
+        "detail": "06 Agent Choose Tool.old.03",
+        "documentation": {}
+    },
+    {
+        "label": "ls",
+        "kind": 2,
+        "importPath": "06 Agent Choose Tool.old.03",
+        "description": "06 Agent Choose Tool.old.03",
+        "peekOfCode": "def ls() -> List[str]:\n    \"\"\"\n    :function: ls\n    :return: List of filenames in the current directory\n    \"\"\"\n    # Fake implementation\n    return [\"file1.txt\", \"file2.txt\", \"file3.txt\"]\n@register_tool\ndef filewrite(name: str, content: str) -> None:\n    \"\"\"",
+        "detail": "06 Agent Choose Tool.old.03",
+        "documentation": {}
+    },
+    {
+        "label": "filewrite",
+        "kind": 2,
+        "importPath": "06 Agent Choose Tool.old.03",
+        "description": "06 Agent Choose Tool.old.03",
+        "peekOfCode": "def filewrite(name: str, content: str) -> None:\n    \"\"\"\n    :function: filewrite\n    :param str name: Name of the file\n    :param str content: Content to write to the file\n    :return: None\n    \"\"\"\n    # Fake implementation\n    print(f\"Writing to {name}: {content}\")\n# Specify the local language model",
+        "detail": "06 Agent Choose Tool.old.03",
+        "documentation": {}
+    },
+    {
+        "label": "clip_history",
+        "kind": 2,
+        "importPath": "06 Agent Choose Tool.old.03",
+        "description": "06 Agent Choose Tool.old.03",
+        "peekOfCode": "def clip_history(history: str, max_chars: int = 8000) -> str:\n    if len(history) > max_chars:\n        return history[-max_chars:]\n    return history\n# Define the state for our workflow\nclass ToolState(TypedDict):\n    history: str\n    use_tool: bool\n    tool_exec: str\n# Define the base class for tasks",
+        "detail": "06 Agent Choose Tool.old.03",
+        "documentation": {}
+    },
+    {
+        "label": "ToolExecute",
+        "kind": 2,
+        "importPath": "06 Agent Choose Tool.old.03",
+        "description": "06 Agent Choose Tool.old.03",
+        "peekOfCode": "def ToolExecute(state: ToolState) -> ToolState:\n    choice = self.llm_output(self.state[\"tool_exec\"])\n    tool_name = choice[\"use_tool\"]\n    args = self.convert_args(tool_name, choice[\"args\"])\n    result = globals()[tool_name](*args)\n# for conditional edges\ndef check_use_tool(state: ToolState) -> Literal[\"use tool\", \"not use tool\"]:\n    if state.get(\"use_tool\") == True:\n        return \"use tool\"\n    else:",
+        "detail": "06 Agent Choose Tool.old.03",
+        "documentation": {}
+    },
+    {
+        "label": "check_use_tool",
+        "kind": 2,
+        "importPath": "06 Agent Choose Tool.old.03",
+        "description": "06 Agent Choose Tool.old.03",
+        "peekOfCode": "def check_use_tool(state: ToolState) -> Literal[\"use tool\", \"not use tool\"]:\n    if state.get(\"use_tool\") == True:\n        return \"use tool\"\n    else:\n        return \"not use tool\"\n# Define the state machine\nworkflow = StateGraph(ToolState)\n# Initialize tasks for DM and Player\ndef chat_agent(state: ToolState) -> ToolState:\n    return ChatAgent(state).execute()",
+        "detail": "06 Agent Choose Tool.old.03",
+        "documentation": {}
+    },
+    {
+        "label": "chat_agent",
+        "kind": 2,
+        "importPath": "06 Agent Choose Tool.old.03",
+        "description": "06 Agent Choose Tool.old.03",
+        "peekOfCode": "def chat_agent(state: ToolState) -> ToolState:\n    return ChatAgent(state).execute()\ndef tool_agent(state: ToolState) -> ToolState:\n    return ToolAgent(state).execute()\nworkflow.add_node(\"chat_agent\", chat_agent)\nworkflow.add_node(\"tool_agent\", tool_agent)\nworkflow.add_node(\"tool\", ToolExecute)\nworkflow.set_entry_point(\"chat_agent\")\n# Define edges between nodes\nworkflow.add_conditional_edges(",
+        "detail": "06 Agent Choose Tool.old.03",
+        "documentation": {}
+    },
+    {
+        "label": "tool_agent",
+        "kind": 2,
+        "importPath": "06 Agent Choose Tool.old.03",
+        "description": "06 Agent Choose Tool.old.03",
+        "peekOfCode": "def tool_agent(state: ToolState) -> ToolState:\n    return ToolAgent(state).execute()\nworkflow.add_node(\"chat_agent\", chat_agent)\nworkflow.add_node(\"tool_agent\", tool_agent)\nworkflow.add_node(\"tool\", ToolExecute)\nworkflow.set_entry_point(\"chat_agent\")\n# Define edges between nodes\nworkflow.add_conditional_edges(\n    \"chat_agent\",\n    check_use_tool,",
+        "detail": "06 Agent Choose Tool.old.03",
+        "documentation": {}
+    },
+    {
+        "label": "local_llm",
+        "kind": 5,
+        "importPath": "06 Agent Choose Tool.old.03",
+        "description": "06 Agent Choose Tool.old.03",
+        "peekOfCode": "local_llm = \"mistral\"\nllm = ChatOllama(model=local_llm, format=\"json\", temperature=0)\n# Clip the history to the last 8000 characters\ndef clip_history(history: str, max_chars: int = 8000) -> str:\n    if len(history) > max_chars:\n        return history[-max_chars:]\n    return history\n# Define the state for our workflow\nclass ToolState(TypedDict):\n    history: str",
+        "detail": "06 Agent Choose Tool.old.03",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "06 Agent Choose Tool.old.03",
+        "description": "06 Agent Choose Tool.old.03",
+        "peekOfCode": "llm = ChatOllama(model=local_llm, format=\"json\", temperature=0)\n# Clip the history to the last 8000 characters\ndef clip_history(history: str, max_chars: int = 8000) -> str:\n    if len(history) > max_chars:\n        return history[-max_chars:]\n    return history\n# Define the state for our workflow\nclass ToolState(TypedDict):\n    history: str\n    use_tool: bool",
+        "detail": "06 Agent Choose Tool.old.03",
+        "documentation": {}
+    },
+    {
+        "label": "workflow",
+        "kind": 5,
+        "importPath": "06 Agent Choose Tool.old.03",
+        "description": "06 Agent Choose Tool.old.03",
+        "peekOfCode": "workflow = StateGraph(ToolState)\n# Initialize tasks for DM and Player\ndef chat_agent(state: ToolState) -> ToolState:\n    return ChatAgent(state).execute()\ndef tool_agent(state: ToolState) -> ToolState:\n    return ToolAgent(state).execute()\nworkflow.add_node(\"chat_agent\", chat_agent)\nworkflow.add_node(\"tool_agent\", tool_agent)\nworkflow.add_node(\"tool\", ToolExecute)\nworkflow.set_entry_point(\"chat_agent\")",
+        "detail": "06 Agent Choose Tool.old.03",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "06 Agent Choose Tool.old.03",
+        "description": "06 Agent Choose Tool.old.03",
+        "peekOfCode": "app = workflow.compile()\n# Initialize the state\ninitial_state = ToolState(\n    history=\"help me ls files in current folder\",\n    use_tool=False, \n    )\nfor s in app.stream(initial_state):\n    # Print the current state\n    print(\"for s in app.stream(initial_state):\")\n    print(s)",
+        "detail": "06 Agent Choose Tool.old.03",
+        "documentation": {}
+    },
+    {
+        "label": "initial_state",
+        "kind": 5,
+        "importPath": "06 Agent Choose Tool.old.03",
+        "description": "06 Agent Choose Tool.old.03",
+        "peekOfCode": "initial_state = ToolState(\n    history=\"help me ls files in current folder\",\n    use_tool=False, \n    )\nfor s in app.stream(initial_state):\n    # Print the current state\n    print(\"for s in app.stream(initial_state):\")\n    print(s)",
+        "detail": "06 Agent Choose Tool.old.03",
+        "documentation": {}
+    },
+    {
+        "label": "ToolState",
+        "kind": 6,
+        "importPath": "06 Agent Choose Tool.main",
+        "description": "06 Agent Choose Tool.main",
+        "peekOfCode": "class ToolState(TypedDict):\n    history: str\n    use_tool: bool\n    tool_exec: str\n    tools_list: str\n# Define the base class for tasks\nclass AgentBase(ABC):\n    def __init__(self, state: ToolState):\n        self.state = state\n    @abstractmethod",
+        "detail": "06 Agent Choose Tool.main",
+        "documentation": {}
+    },
+    {
+        "label": "AgentBase",
+        "kind": 6,
+        "importPath": "06 Agent Choose Tool.main",
+        "description": "06 Agent Choose Tool.main",
+        "peekOfCode": "class AgentBase(ABC):\n    def __init__(self, state: ToolState):\n        self.state = state\n    @abstractmethod\n    def get_prompt_template(self) -> str:\n        pass\n    def execute(self) -> ToolState:\n        # Clip the history to the last 8000 characters\n        self.state[\"history\"] = clip_history(self.state[\"history\"])\n        # Define the prompt template",
+        "detail": "06 Agent Choose Tool.main",
+        "documentation": {}
+    },
+    {
+        "label": "ChatAgent",
+        "kind": 6,
+        "importPath": "06 Agent Choose Tool.main",
+        "description": "06 Agent Choose Tool.main",
+        "peekOfCode": "class ChatAgent(AgentBase):\n    def get_prompt_template(self) -> str:\n        return \"\"\"\n            Available tools: {tools_list}\n            Question: {history}\n            As ChatAgent, decide if we need to use a tool or not.\n            If we don't need a tool, just reply; otherwise, let the ToolAgent handle it.\n            Output the JSON in the format: {{\"scenario\": \"your reply\", \"use_tool\": True/False}}\n        \"\"\"\nclass ToolAgent(AgentBase):",
+        "detail": "06 Agent Choose Tool.main",
+        "documentation": {}
+    },
+    {
+        "label": "ToolAgent",
+        "kind": 6,
+        "importPath": "06 Agent Choose Tool.main",
+        "description": "06 Agent Choose Tool.main",
+        "peekOfCode": "class ToolAgent(AgentBase):\n    def get_prompt_template(self) -> str:\n        return \"\"\"\n            History: {history}\n            Available tools: {tools_list}\n            Based on the history, choose the appropriate tool and arguments in the format:\n            {{\"function\": \"<function>\", \"args\": [<arg1>,<arg2>, ...]}}\n        \"\"\"\ndef ToolExecutor(state: ToolState) -> ToolState:\n    if not state[\"tool_exec\"]:",
+        "detail": "06 Agent Choose Tool.main",
+        "documentation": {}
+    },
+    {
+        "label": "tool",
+        "kind": 2,
+        "importPath": "06 Agent Choose Tool.main",
+        "description": "06 Agent Choose Tool.main",
+        "peekOfCode": "def tool(func: Callable) -> Callable:\n    signature = inspect.signature(func)\n    docstring = func.__doc__ or \"\"\n    params = [\n        {\"name\": param.name, \"type\": param.annotation}\n        for param in signature.parameters.values()\n    ]\n    tool_info = {\n        \"name\": func.__name__,\n        \"description\": docstring,",
+        "detail": "06 Agent Choose Tool.main",
+        "documentation": {}
+    },
+    {
+        "label": "mul",
+        "kind": 2,
+        "importPath": "06 Agent Choose Tool.main",
+        "description": "06 Agent Choose Tool.main",
+        "peekOfCode": "def mul(a: int, b: int) -> int:\n    \"\"\"\n    :function: mul   \n    :param int a: First number to add\n    :param int b: Second number to add\n    :return: a * b\n    \"\"\"\n    return a * b\n@tool\ndef ls() -> List[str]:",
+        "detail": "06 Agent Choose Tool.main",
+        "documentation": {}
+    },
+    {
+        "label": "ls",
+        "kind": 2,
+        "importPath": "06 Agent Choose Tool.main",
+        "description": "06 Agent Choose Tool.main",
+        "peekOfCode": "def ls() -> List[str]:\n    \"\"\"\n    :function: ls\n    :return: List of filenames in the current directory\n    \"\"\"\n    # Fake implementation\n    return [\"file1.txt\", \"file2.txt\", \"file3.txt\"]\n@tool\ndef filewrite(name: str, content: str) -> None:\n    \"\"\"",
+        "detail": "06 Agent Choose Tool.main",
+        "documentation": {}
+    },
+    {
+        "label": "filewrite",
+        "kind": 2,
+        "importPath": "06 Agent Choose Tool.main",
+        "description": "06 Agent Choose Tool.main",
+        "peekOfCode": "def filewrite(name: str, content: str) -> None:\n    \"\"\"\n    :function: filewrite\n    :param str name: Name of the file\n    :param str content: Content to write to the file\n    :return: None\n    \"\"\"\n    # Fake implementation\n    print(f\"Writing to {name}: {content}\")\n# Clip the history to the last 8000 characters",
+        "detail": "06 Agent Choose Tool.main",
+        "documentation": {}
+    },
+    {
+        "label": "clip_history",
+        "kind": 2,
+        "importPath": "06 Agent Choose Tool.main",
+        "description": "06 Agent Choose Tool.main",
+        "peekOfCode": "def clip_history(history: str, max_chars: int = 8000) -> str:\n    if len(history) > max_chars:\n        return history[-max_chars:]\n    return history\n# Define the state for our workflow\nclass ToolState(TypedDict):\n    history: str\n    use_tool: bool\n    tool_exec: str\n    tools_list: str",
+        "detail": "06 Agent Choose Tool.main",
+        "documentation": {}
+    },
+    {
+        "label": "ToolExecutor",
+        "kind": 2,
+        "importPath": "06 Agent Choose Tool.main",
+        "description": "06 Agent Choose Tool.main",
+        "peekOfCode": "def ToolExecutor(state: ToolState) -> ToolState:\n    if not state[\"tool_exec\"]:\n        raise ValueError(\"No tool_exec data available to execute.\")\n    choice = json.loads(state[\"tool_exec\"])\n    tool_name = choice[\"function\"]\n    args = choice[\"args\"]\n    if tool_name not in tool_registry:\n        raise ValueError(f\"Tool {tool_name} not found in registry.\")\n    result = tool_registry[tool_name](*args)\n    state[\"history\"] += f\"\\nExecuted {tool_name} with result: {result}\"",
+        "detail": "06 Agent Choose Tool.main",
+        "documentation": {}
+    },
+    {
+        "label": "check_use_tool",
+        "kind": 2,
+        "importPath": "06 Agent Choose Tool.main",
+        "description": "06 Agent Choose Tool.main",
+        "peekOfCode": "def check_use_tool(state: ToolState) -> Literal[\"use tool\", \"not use tool\"]:\n    if state.get(\"use_tool\") == True:\n        return \"use tool\"\n    else:\n        return \"not use tool\"\n# Define the state machine\nworkflow = StateGraph(ToolState)\n# Initialize tasks for ChatAgent and ToolAgent\ndef chat_agent(state: ToolState) -> ToolState:\n    return ChatAgent(state).execute()",
+        "detail": "06 Agent Choose Tool.main",
+        "documentation": {}
+    },
+    {
+        "label": "chat_agent",
+        "kind": 2,
+        "importPath": "06 Agent Choose Tool.main",
+        "description": "06 Agent Choose Tool.main",
+        "peekOfCode": "def chat_agent(state: ToolState) -> ToolState:\n    return ChatAgent(state).execute()\ndef tool_agent(state: ToolState) -> ToolState:\n    return ToolAgent(state).execute()\nworkflow.add_node(\"chat_agent\", chat_agent)\nworkflow.add_node(\"tool_agent\", tool_agent)\nworkflow.add_node(\"tool\", ToolExecutor)\nworkflow.set_entry_point(\"chat_agent\")\n# Define edges between nodes\nworkflow.add_conditional_edges(",
+        "detail": "06 Agent Choose Tool.main",
+        "documentation": {}
+    },
+    {
+        "label": "tool_agent",
+        "kind": 2,
+        "importPath": "06 Agent Choose Tool.main",
+        "description": "06 Agent Choose Tool.main",
+        "peekOfCode": "def tool_agent(state: ToolState) -> ToolState:\n    return ToolAgent(state).execute()\nworkflow.add_node(\"chat_agent\", chat_agent)\nworkflow.add_node(\"tool_agent\", tool_agent)\nworkflow.add_node(\"tool\", ToolExecutor)\nworkflow.set_entry_point(\"chat_agent\")\n# Define edges between nodes\nworkflow.add_conditional_edges(\n    \"chat_agent\",\n    check_use_tool,",
+        "detail": "06 Agent Choose Tool.main",
+        "documentation": {}
+    },
+    {
+        "label": "question",
+        "kind": 2,
+        "importPath": "06 Agent Choose Tool.main",
+        "description": "06 Agent Choose Tool.main",
+        "peekOfCode": "def question(history: str) -> None:\n    initial_state = ToolState(\n        history=history,\n        use_tool=False,\n        tool_exec=\"\",\n        tools_list=tools_list\n    )\n    for state in app.stream(initial_state):\n        print(state)\n# Example usage",
+        "detail": "06 Agent Choose Tool.main",
+        "documentation": {}
+    },
+    {
+        "label": "workflow",
+        "kind": 5,
+        "importPath": "06 Agent Choose Tool.main",
+        "description": "06 Agent Choose Tool.main",
+        "peekOfCode": "workflow = StateGraph(ToolState)\n# Initialize tasks for ChatAgent and ToolAgent\ndef chat_agent(state: ToolState) -> ToolState:\n    return ChatAgent(state).execute()\ndef tool_agent(state: ToolState) -> ToolState:\n    return ToolAgent(state).execute()\nworkflow.add_node(\"chat_agent\", chat_agent)\nworkflow.add_node(\"tool_agent\", tool_agent)\nworkflow.add_node(\"tool\", ToolExecutor)\nworkflow.set_entry_point(\"chat_agent\")",
+        "detail": "06 Agent Choose Tool.main",
+        "documentation": {}
+    },
+    {
+        "label": "tools_list",
+        "kind": 5,
+        "importPath": "06 Agent Choose Tool.main",
+        "description": "06 Agent Choose Tool.main",
+        "peekOfCode": "tools_list = json.dumps([\n    {\n        \"name\": tool[\"name\"],\n        \"description\": tool[\"description\"]\n    }\n    for tool in tool_info_registry\n])\n# Compile the workflow into a runnable app\napp = workflow.compile()\ndef question(history: str) -> None:",
+        "detail": "06 Agent Choose Tool.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "06 Agent Choose Tool.main",
+        "description": "06 Agent Choose Tool.main",
+        "peekOfCode": "app = workflow.compile()\ndef question(history: str) -> None:\n    initial_state = ToolState(\n        history=history,\n        use_tool=False,\n        tool_exec=\"\",\n        tools_list=tools_list\n    )\n    for state in app.stream(initial_state):\n        print(state)",
+        "detail": "06 Agent Choose Tool.main",
+        "documentation": {}
+    },
+    {
+        "label": "embed_model",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.01_ollama_embed",
+        "description": "07 ollama RAG.old_ver.01_ollama_embed",
+        "peekOfCode": "embed_model = OllamaEmbeddings(model=\"mistral\")\n# Documents to be embedded\ndocuments = [\n    \"Llamas are members of the camelid family meaning they're pretty closely related to vicuñas and camels\",\n    \"Llamas were first domesticated and used as pack animals 4,000 to 5,000 years ago in the Peruvian highlands\",\n    \"Llamas can grow as much as 6 feet tall though the average llama between 5 feet 6 inches and 5 feet 9 inches tall\",\n    \"Llamas weigh between 280 and 450 pounds and can carry 25 to 30 percent of their body weight\",\n    \"Llamas are vegetarians and have very efficient digestive systems\",\n    \"Llamas live to be about 20 years old, though some only live for 15 years and others live to be 30 years old\",\n]",
+        "detail": "07 ollama RAG.old_ver.01_ollama_embed",
+        "documentation": {}
+    },
+    {
+        "label": "documents",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.01_ollama_embed",
+        "description": "07 ollama RAG.old_ver.01_ollama_embed",
+        "peekOfCode": "documents = [\n    \"Llamas are members of the camelid family meaning they're pretty closely related to vicuñas and camels\",\n    \"Llamas were first domesticated and used as pack animals 4,000 to 5,000 years ago in the Peruvian highlands\",\n    \"Llamas can grow as much as 6 feet tall though the average llama between 5 feet 6 inches and 5 feet 9 inches tall\",\n    \"Llamas weigh between 280 and 450 pounds and can carry 25 to 30 percent of their body weight\",\n    \"Llamas are vegetarians and have very efficient digestive systems\",\n    \"Llamas live to be about 20 years old, though some only live for 15 years and others live to be 30 years old\",\n]\n# Generate embeddings for the documents\nembeddings = embed_model.embed_documents(documents)",
+        "detail": "07 ollama RAG.old_ver.01_ollama_embed",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.01_ollama_embed",
+        "description": "07 ollama RAG.old_ver.01_ollama_embed",
+        "peekOfCode": "embeddings = embed_model.embed_documents(documents)\n# Initialize ChromaDB client and create a collection\nclient = chromadb.Client()\ncollection = client.create_collection(name=\"docs\")\n# Store each document and its embedding in the collection\nfor i, embedding in enumerate(embeddings):\n    collection.add(\n        ids=[str(i)],\n        embeddings=[embedding],\n        documents=[documents[i]]",
+        "detail": "07 ollama RAG.old_ver.01_ollama_embed",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.01_ollama_embed",
+        "description": "07 ollama RAG.old_ver.01_ollama_embed",
+        "peekOfCode": "client = chromadb.Client()\ncollection = client.create_collection(name=\"docs\")\n# Store each document and its embedding in the collection\nfor i, embedding in enumerate(embeddings):\n    collection.add(\n        ids=[str(i)],\n        embeddings=[embedding],\n        documents=[documents[i]]\n    )\n# Query the database with a prompt",
+        "detail": "07 ollama RAG.old_ver.01_ollama_embed",
+        "documentation": {}
+    },
+    {
+        "label": "collection",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.01_ollama_embed",
+        "description": "07 ollama RAG.old_ver.01_ollama_embed",
+        "peekOfCode": "collection = client.create_collection(name=\"docs\")\n# Store each document and its embedding in the collection\nfor i, embedding in enumerate(embeddings):\n    collection.add(\n        ids=[str(i)],\n        embeddings=[embedding],\n        documents=[documents[i]]\n    )\n# Query the database with a prompt\nquery = \"What animals are llamas related to?\"",
+        "detail": "07 ollama RAG.old_ver.01_ollama_embed",
+        "documentation": {}
+    },
+    {
+        "label": "query",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.01_ollama_embed",
+        "description": "07 ollama RAG.old_ver.01_ollama_embed",
+        "peekOfCode": "query = \"What animals are llamas related to?\"\nquery_embedding = embed_model.embed_query(query)\n# Retrieve the most relevant document\nresults = collection.query(\n    query_embeddings=[query_embedding],\n    n_results=1\n)\nmost_relevant_doc = results['documents'][0][0]\nprint(f\"Most relevant document: {most_relevant_doc}\")\n# Generate a response using the prompt and the retrieved document",
+        "detail": "07 ollama RAG.old_ver.01_ollama_embed",
+        "documentation": {}
+    },
+    {
+        "label": "query_embedding",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.01_ollama_embed",
+        "description": "07 ollama RAG.old_ver.01_ollama_embed",
+        "peekOfCode": "query_embedding = embed_model.embed_query(query)\n# Retrieve the most relevant document\nresults = collection.query(\n    query_embeddings=[query_embedding],\n    n_results=1\n)\nmost_relevant_doc = results['documents'][0][0]\nprint(f\"Most relevant document: {most_relevant_doc}\")\n# Generate a response using the prompt and the retrieved document\nurl = \"http://localhost:11434/api/generate\"",
+        "detail": "07 ollama RAG.old_ver.01_ollama_embed",
+        "documentation": {}
+    },
+    {
+        "label": "results",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.01_ollama_embed",
+        "description": "07 ollama RAG.old_ver.01_ollama_embed",
+        "peekOfCode": "results = collection.query(\n    query_embeddings=[query_embedding],\n    n_results=1\n)\nmost_relevant_doc = results['documents'][0][0]\nprint(f\"Most relevant document: {most_relevant_doc}\")\n# Generate a response using the prompt and the retrieved document\nurl = \"http://localhost:11434/api/generate\"\nheaders = {\"Content-Type\": \"application/json\"}\ndata = {",
+        "detail": "07 ollama RAG.old_ver.01_ollama_embed",
+        "documentation": {}
+    },
+    {
+        "label": "most_relevant_doc",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.01_ollama_embed",
+        "description": "07 ollama RAG.old_ver.01_ollama_embed",
+        "peekOfCode": "most_relevant_doc = results['documents'][0][0]\nprint(f\"Most relevant document: {most_relevant_doc}\")\n# Generate a response using the prompt and the retrieved document\nurl = \"http://localhost:11434/api/generate\"\nheaders = {\"Content-Type\": \"application/json\"}\ndata = {\n    \"model\": \"mistral\",\n    \"prompt\": f\"Using this data: {most_relevant_doc}. Respond to this prompt: {query}\",\n    \"stream\": False\n}",
+        "detail": "07 ollama RAG.old_ver.01_ollama_embed",
+        "documentation": {}
+    },
+    {
+        "label": "url",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.01_ollama_embed",
+        "description": "07 ollama RAG.old_ver.01_ollama_embed",
+        "peekOfCode": "url = \"http://localhost:11434/api/generate\"\nheaders = {\"Content-Type\": \"application/json\"}\ndata = {\n    \"model\": \"mistral\",\n    \"prompt\": f\"Using this data: {most_relevant_doc}. Respond to this prompt: {query}\",\n    \"stream\": False\n}\nresponse = requests.post(url, headers=headers, data=json.dumps(data))\nif response.status_code == 200:\n    response_json = response.json()",
+        "detail": "07 ollama RAG.old_ver.01_ollama_embed",
+        "documentation": {}
+    },
+    {
+        "label": "headers",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.01_ollama_embed",
+        "description": "07 ollama RAG.old_ver.01_ollama_embed",
+        "peekOfCode": "headers = {\"Content-Type\": \"application/json\"}\ndata = {\n    \"model\": \"mistral\",\n    \"prompt\": f\"Using this data: {most_relevant_doc}. Respond to this prompt: {query}\",\n    \"stream\": False\n}\nresponse = requests.post(url, headers=headers, data=json.dumps(data))\nif response.status_code == 200:\n    response_json = response.json()\n    print(f\"Response: {response_json['response']}\")",
+        "detail": "07 ollama RAG.old_ver.01_ollama_embed",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.01_ollama_embed",
+        "description": "07 ollama RAG.old_ver.01_ollama_embed",
+        "peekOfCode": "data = {\n    \"model\": \"mistral\",\n    \"prompt\": f\"Using this data: {most_relevant_doc}. Respond to this prompt: {query}\",\n    \"stream\": False\n}\nresponse = requests.post(url, headers=headers, data=json.dumps(data))\nif response.status_code == 200:\n    response_json = response.json()\n    print(f\"Response: {response_json['response']}\")\nelse:",
+        "detail": "07 ollama RAG.old_ver.01_ollama_embed",
+        "documentation": {}
+    },
+    {
+        "label": "response",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.01_ollama_embed",
+        "description": "07 ollama RAG.old_ver.01_ollama_embed",
+        "peekOfCode": "response = requests.post(url, headers=headers, data=json.dumps(data))\nif response.status_code == 200:\n    response_json = response.json()\n    print(f\"Response: {response_json['response']}\")\nelse:\n    print(f\"Error: {response.status_code} - {response.text}\")",
+        "detail": "07 ollama RAG.old_ver.01_ollama_embed",
+        "documentation": {}
+    },
+    {
+        "label": "load_file_content",
+        "kind": 2,
+        "importPath": "07 ollama RAG.old_ver.02_embed_ask",
+        "description": "07 ollama RAG.old_ver.02_embed_ask",
+        "peekOfCode": "def load_file_content(file_path):\n    with open(file_path, 'r', encoding='utf-8') as file:\n        return file.read()\n# Read the content from the file\nfile_content = load_file_content(file_path)\n# Embed the content of the file\ndocument_embeddings = embed_model.embed_documents([file_content])\n# Initialize ChromaDB client and create a collection\nclient = chromadb.Client()\ncollection = client.create_collection(name=\"docs\")",
+        "detail": "07 ollama RAG.old_ver.02_embed_ask",
+        "documentation": {}
+    },
+    {
+        "label": "answer_question",
+        "kind": 2,
+        "importPath": "07 ollama RAG.old_ver.02_embed_ask",
+        "description": "07 ollama RAG.old_ver.02_embed_ask",
+        "peekOfCode": "def answer_question(question):\n    # Generate an embedding for the question\n    query_embedding = embed_model.embed_query(question)\n    # Retrieve the most relevant document\n    results = collection.query(\n        query_embeddings=[query_embedding],\n        n_results=1\n    )\n    most_relevant_doc = results['documents'][0][0]\n    print(f\"Most relevant document: {most_relevant_doc}\")",
+        "detail": "07 ollama RAG.old_ver.02_embed_ask",
+        "documentation": {}
+    },
+    {
+        "label": "embed_model",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.02_embed_ask",
+        "description": "07 ollama RAG.old_ver.02_embed_ask",
+        "peekOfCode": "embed_model = OllamaEmbeddings(model=\"mistral\")\n# Path to the markdown file\nfile_path = \"./data/product.md\"\n# Function to read the content of the file\ndef load_file_content(file_path):\n    with open(file_path, 'r', encoding='utf-8') as file:\n        return file.read()\n# Read the content from the file\nfile_content = load_file_content(file_path)\n# Embed the content of the file",
+        "detail": "07 ollama RAG.old_ver.02_embed_ask",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.02_embed_ask",
+        "description": "07 ollama RAG.old_ver.02_embed_ask",
+        "peekOfCode": "file_path = \"./data/product.md\"\n# Function to read the content of the file\ndef load_file_content(file_path):\n    with open(file_path, 'r', encoding='utf-8') as file:\n        return file.read()\n# Read the content from the file\nfile_content = load_file_content(file_path)\n# Embed the content of the file\ndocument_embeddings = embed_model.embed_documents([file_content])\n# Initialize ChromaDB client and create a collection",
+        "detail": "07 ollama RAG.old_ver.02_embed_ask",
+        "documentation": {}
+    },
+    {
+        "label": "file_content",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.02_embed_ask",
+        "description": "07 ollama RAG.old_ver.02_embed_ask",
+        "peekOfCode": "file_content = load_file_content(file_path)\n# Embed the content of the file\ndocument_embeddings = embed_model.embed_documents([file_content])\n# Initialize ChromaDB client and create a collection\nclient = chromadb.Client()\ncollection = client.create_collection(name=\"docs\")\n# Store the document and its embedding in the collection\ncollection.add(\n    ids=[\"0\"],\n    embeddings=document_embeddings,",
+        "detail": "07 ollama RAG.old_ver.02_embed_ask",
+        "documentation": {}
+    },
+    {
+        "label": "document_embeddings",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.02_embed_ask",
+        "description": "07 ollama RAG.old_ver.02_embed_ask",
+        "peekOfCode": "document_embeddings = embed_model.embed_documents([file_content])\n# Initialize ChromaDB client and create a collection\nclient = chromadb.Client()\ncollection = client.create_collection(name=\"docs\")\n# Store the document and its embedding in the collection\ncollection.add(\n    ids=[\"0\"],\n    embeddings=document_embeddings,\n    documents=[file_content]\n)",
+        "detail": "07 ollama RAG.old_ver.02_embed_ask",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.02_embed_ask",
+        "description": "07 ollama RAG.old_ver.02_embed_ask",
+        "peekOfCode": "client = chromadb.Client()\ncollection = client.create_collection(name=\"docs\")\n# Store the document and its embedding in the collection\ncollection.add(\n    ids=[\"0\"],\n    embeddings=document_embeddings,\n    documents=[file_content]\n)\n# Specify the local language model\nlocal_llm = \"phi3\"",
+        "detail": "07 ollama RAG.old_ver.02_embed_ask",
+        "documentation": {}
+    },
+    {
+        "label": "collection",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.02_embed_ask",
+        "description": "07 ollama RAG.old_ver.02_embed_ask",
+        "peekOfCode": "collection = client.create_collection(name=\"docs\")\n# Store the document and its embedding in the collection\ncollection.add(\n    ids=[\"0\"],\n    embeddings=document_embeddings,\n    documents=[file_content]\n)\n# Specify the local language model\nlocal_llm = \"phi3\"\n# Initialize the ChatOllama model with desired parameters",
+        "detail": "07 ollama RAG.old_ver.02_embed_ask",
+        "documentation": {}
+    },
+    {
+        "label": "local_llm",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.02_embed_ask",
+        "description": "07 ollama RAG.old_ver.02_embed_ask",
+        "peekOfCode": "local_llm = \"phi3\"\n# Initialize the ChatOllama model with desired parameters\nllm = ChatOllama(model=local_llm, format=\"json\", temperature=0)\n# Define the prompt template\ntemplate = \"Question: {question}\\nAnswer: Let's think step by step.\"\nprompt = PromptTemplate.from_template(template)\n# Define the langchain pipeline\nllm_chain = prompt | llm | StrOutputParser()\n# Function to answer questions using RAG\ndef answer_question(question):",
+        "detail": "07 ollama RAG.old_ver.02_embed_ask",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.02_embed_ask",
+        "description": "07 ollama RAG.old_ver.02_embed_ask",
+        "peekOfCode": "llm = ChatOllama(model=local_llm, format=\"json\", temperature=0)\n# Define the prompt template\ntemplate = \"Question: {question}\\nAnswer: Let's think step by step.\"\nprompt = PromptTemplate.from_template(template)\n# Define the langchain pipeline\nllm_chain = prompt | llm | StrOutputParser()\n# Function to answer questions using RAG\ndef answer_question(question):\n    # Generate an embedding for the question\n    query_embedding = embed_model.embed_query(question)",
+        "detail": "07 ollama RAG.old_ver.02_embed_ask",
+        "documentation": {}
+    },
+    {
+        "label": "template",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.02_embed_ask",
+        "description": "07 ollama RAG.old_ver.02_embed_ask",
+        "peekOfCode": "template = \"Question: {question}\\nAnswer: Let's think step by step.\"\nprompt = PromptTemplate.from_template(template)\n# Define the langchain pipeline\nllm_chain = prompt | llm | StrOutputParser()\n# Function to answer questions using RAG\ndef answer_question(question):\n    # Generate an embedding for the question\n    query_embedding = embed_model.embed_query(question)\n    # Retrieve the most relevant document\n    results = collection.query(",
+        "detail": "07 ollama RAG.old_ver.02_embed_ask",
+        "documentation": {}
+    },
+    {
+        "label": "prompt",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.02_embed_ask",
+        "description": "07 ollama RAG.old_ver.02_embed_ask",
+        "peekOfCode": "prompt = PromptTemplate.from_template(template)\n# Define the langchain pipeline\nllm_chain = prompt | llm | StrOutputParser()\n# Function to answer questions using RAG\ndef answer_question(question):\n    # Generate an embedding for the question\n    query_embedding = embed_model.embed_query(question)\n    # Retrieve the most relevant document\n    results = collection.query(\n        query_embeddings=[query_embedding],",
+        "detail": "07 ollama RAG.old_ver.02_embed_ask",
+        "documentation": {}
+    },
+    {
+        "label": "llm_chain",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.02_embed_ask",
+        "description": "07 ollama RAG.old_ver.02_embed_ask",
+        "peekOfCode": "llm_chain = prompt | llm | StrOutputParser()\n# Function to answer questions using RAG\ndef answer_question(question):\n    # Generate an embedding for the question\n    query_embedding = embed_model.embed_query(question)\n    # Retrieve the most relevant document\n    results = collection.query(\n        query_embeddings=[query_embedding],\n        n_results=1\n    )",
+        "detail": "07 ollama RAG.old_ver.02_embed_ask",
+        "documentation": {}
+    },
+    {
+        "label": "question",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.02_embed_ask",
+        "description": "07 ollama RAG.old_ver.02_embed_ask",
+        "peekOfCode": "question = \"What features does the product have?\"\nanswer = answer_question(question)\nprint(f\"Answer: {answer}\")",
+        "detail": "07 ollama RAG.old_ver.02_embed_ask",
+        "documentation": {}
+    },
+    {
+        "label": "answer",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.02_embed_ask",
+        "description": "07 ollama RAG.old_ver.02_embed_ask",
+        "peekOfCode": "answer = answer_question(question)\nprint(f\"Answer: {answer}\")",
+        "detail": "07 ollama RAG.old_ver.02_embed_ask",
+        "documentation": {}
+    },
+    {
+        "label": "load_file_content",
+        "kind": 2,
+        "importPath": "07 ollama RAG.old_ver.03_chunk",
+        "description": "07 ollama RAG.old_ver.03_chunk",
+        "peekOfCode": "def load_file_content(file_path):\n    with open(file_path, 'r', encoding='utf-8') as file:\n        return file.read()\n# Read the content from the file\nfile_content = load_file_content(file_path)\n# Initialize the text splitter\ntext_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=100)\n# Split the document into chunks\nchunks = text_splitter.split_text(file_content)\n# Initialize ChromaDB client and create a collection",
+        "detail": "07 ollama RAG.old_ver.03_chunk",
+        "documentation": {}
+    },
+    {
+        "label": "answer_question",
+        "kind": 2,
+        "importPath": "07 ollama RAG.old_ver.03_chunk",
+        "description": "07 ollama RAG.old_ver.03_chunk",
+        "peekOfCode": "def answer_question(question):\n    # Generate an embedding for the question\n    query_embedding = embed_model.embed_query(question)\n    # Retrieve the most relevant document chunks\n    results = collection.query(\n        query_embeddings=[query_embedding],\n        n_results=3  # Retrieve top 3 relevant chunks\n    )\n    relevant_docs = [result[0] for result in results['documents']]\n    combined_docs = \" \".join(relevant_docs)",
+        "detail": "07 ollama RAG.old_ver.03_chunk",
+        "documentation": {}
+    },
+    {
+        "label": "embed_model",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.03_chunk",
+        "description": "07 ollama RAG.old_ver.03_chunk",
+        "peekOfCode": "embed_model = OllamaEmbeddings(model=\"mistral\")\n# Path to the markdown file\nfile_path = \"./data/product.md\"\n# Function to read the content of the file\ndef load_file_content(file_path):\n    with open(file_path, 'r', encoding='utf-8') as file:\n        return file.read()\n# Read the content from the file\nfile_content = load_file_content(file_path)\n# Initialize the text splitter",
+        "detail": "07 ollama RAG.old_ver.03_chunk",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.03_chunk",
+        "description": "07 ollama RAG.old_ver.03_chunk",
+        "peekOfCode": "file_path = \"./data/product.md\"\n# Function to read the content of the file\ndef load_file_content(file_path):\n    with open(file_path, 'r', encoding='utf-8') as file:\n        return file.read()\n# Read the content from the file\nfile_content = load_file_content(file_path)\n# Initialize the text splitter\ntext_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=100)\n# Split the document into chunks",
+        "detail": "07 ollama RAG.old_ver.03_chunk",
+        "documentation": {}
+    },
+    {
+        "label": "file_content",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.03_chunk",
+        "description": "07 ollama RAG.old_ver.03_chunk",
+        "peekOfCode": "file_content = load_file_content(file_path)\n# Initialize the text splitter\ntext_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=100)\n# Split the document into chunks\nchunks = text_splitter.split_text(file_content)\n# Initialize ChromaDB client and create a collection\nclient = chromadb.Client()\ncollection = client.create_collection(name=\"docs\")\n# Embed each chunk and store it in the collection\nfor i, chunk in enumerate(chunks):",
+        "detail": "07 ollama RAG.old_ver.03_chunk",
+        "documentation": {}
+    },
+    {
+        "label": "text_splitter",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.03_chunk",
+        "description": "07 ollama RAG.old_ver.03_chunk",
+        "peekOfCode": "text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=100)\n# Split the document into chunks\nchunks = text_splitter.split_text(file_content)\n# Initialize ChromaDB client and create a collection\nclient = chromadb.Client()\ncollection = client.create_collection(name=\"docs\")\n# Embed each chunk and store it in the collection\nfor i, chunk in enumerate(chunks):\n    chunk_embedding = embed_model.embed_documents([chunk])\n    collection.add(",
+        "detail": "07 ollama RAG.old_ver.03_chunk",
+        "documentation": {}
+    },
+    {
+        "label": "chunks",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.03_chunk",
+        "description": "07 ollama RAG.old_ver.03_chunk",
+        "peekOfCode": "chunks = text_splitter.split_text(file_content)\n# Initialize ChromaDB client and create a collection\nclient = chromadb.Client()\ncollection = client.create_collection(name=\"docs\")\n# Embed each chunk and store it in the collection\nfor i, chunk in enumerate(chunks):\n    chunk_embedding = embed_model.embed_documents([chunk])\n    collection.add(\n        ids=[str(i)],\n        embeddings=chunk_embedding,",
+        "detail": "07 ollama RAG.old_ver.03_chunk",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.03_chunk",
+        "description": "07 ollama RAG.old_ver.03_chunk",
+        "peekOfCode": "client = chromadb.Client()\ncollection = client.create_collection(name=\"docs\")\n# Embed each chunk and store it in the collection\nfor i, chunk in enumerate(chunks):\n    chunk_embedding = embed_model.embed_documents([chunk])\n    collection.add(\n        ids=[str(i)],\n        embeddings=chunk_embedding,\n        documents=[chunk]\n    )",
+        "detail": "07 ollama RAG.old_ver.03_chunk",
+        "documentation": {}
+    },
+    {
+        "label": "collection",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.03_chunk",
+        "description": "07 ollama RAG.old_ver.03_chunk",
+        "peekOfCode": "collection = client.create_collection(name=\"docs\")\n# Embed each chunk and store it in the collection\nfor i, chunk in enumerate(chunks):\n    chunk_embedding = embed_model.embed_documents([chunk])\n    collection.add(\n        ids=[str(i)],\n        embeddings=chunk_embedding,\n        documents=[chunk]\n    )\n# Specify the local language model",
+        "detail": "07 ollama RAG.old_ver.03_chunk",
+        "documentation": {}
+    },
+    {
+        "label": "local_llm",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.03_chunk",
+        "description": "07 ollama RAG.old_ver.03_chunk",
+        "peekOfCode": "local_llm = \"phi3\"\n# Initialize the ChatOllama model with desired parameters\nllm = ChatOllama(model=local_llm, format=\"json\", temperature=0)\n# Define the prompt template\ntemplate = \"Question: {question}\\nAnswer: Let's think step by step.\"\nprompt = PromptTemplate.from_template(template)\n# Define the langchain pipeline\nllm_chain = prompt | llm | StrOutputParser()\n# Function to answer questions using RAG\ndef answer_question(question):",
+        "detail": "07 ollama RAG.old_ver.03_chunk",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.03_chunk",
+        "description": "07 ollama RAG.old_ver.03_chunk",
+        "peekOfCode": "llm = ChatOllama(model=local_llm, format=\"json\", temperature=0)\n# Define the prompt template\ntemplate = \"Question: {question}\\nAnswer: Let's think step by step.\"\nprompt = PromptTemplate.from_template(template)\n# Define the langchain pipeline\nllm_chain = prompt | llm | StrOutputParser()\n# Function to answer questions using RAG\ndef answer_question(question):\n    # Generate an embedding for the question\n    query_embedding = embed_model.embed_query(question)",
+        "detail": "07 ollama RAG.old_ver.03_chunk",
+        "documentation": {}
+    },
+    {
+        "label": "template",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.03_chunk",
+        "description": "07 ollama RAG.old_ver.03_chunk",
+        "peekOfCode": "template = \"Question: {question}\\nAnswer: Let's think step by step.\"\nprompt = PromptTemplate.from_template(template)\n# Define the langchain pipeline\nllm_chain = prompt | llm | StrOutputParser()\n# Function to answer questions using RAG\ndef answer_question(question):\n    # Generate an embedding for the question\n    query_embedding = embed_model.embed_query(question)\n    # Retrieve the most relevant document chunks\n    results = collection.query(",
+        "detail": "07 ollama RAG.old_ver.03_chunk",
+        "documentation": {}
+    },
+    {
+        "label": "prompt",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.03_chunk",
+        "description": "07 ollama RAG.old_ver.03_chunk",
+        "peekOfCode": "prompt = PromptTemplate.from_template(template)\n# Define the langchain pipeline\nllm_chain = prompt | llm | StrOutputParser()\n# Function to answer questions using RAG\ndef answer_question(question):\n    # Generate an embedding for the question\n    query_embedding = embed_model.embed_query(question)\n    # Retrieve the most relevant document chunks\n    results = collection.query(\n        query_embeddings=[query_embedding],",
+        "detail": "07 ollama RAG.old_ver.03_chunk",
+        "documentation": {}
+    },
+    {
+        "label": "llm_chain",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.03_chunk",
+        "description": "07 ollama RAG.old_ver.03_chunk",
+        "peekOfCode": "llm_chain = prompt | llm | StrOutputParser()\n# Function to answer questions using RAG\ndef answer_question(question):\n    # Generate an embedding for the question\n    query_embedding = embed_model.embed_query(question)\n    # Retrieve the most relevant document chunks\n    results = collection.query(\n        query_embeddings=[query_embedding],\n        n_results=3  # Retrieve top 3 relevant chunks\n    )",
+        "detail": "07 ollama RAG.old_ver.03_chunk",
+        "documentation": {}
+    },
+    {
+        "label": "question",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.03_chunk",
+        "description": "07 ollama RAG.old_ver.03_chunk",
+        "peekOfCode": "question = \"What does the product look liked?\"\nanswer = answer_question(question)\nprint(f\"Answer: {answer}\")",
+        "detail": "07 ollama RAG.old_ver.03_chunk",
+        "documentation": {}
+    },
+    {
+        "label": "answer",
+        "kind": 5,
+        "importPath": "07 ollama RAG.old_ver.03_chunk",
+        "description": "07 ollama RAG.old_ver.03_chunk",
+        "peekOfCode": "answer = answer_question(question)\nprint(f\"Answer: {answer}\")",
+        "detail": "07 ollama RAG.old_ver.03_chunk",
+        "documentation": {}
+    },
+    {
+        "label": "load_file_content",
+        "kind": 2,
+        "importPath": "07 ollama RAG.main",
+        "description": "07 ollama RAG.main",
+        "peekOfCode": "def load_file_content(file_path):\n    with open(file_path, 'r', encoding='utf-8') as file:\n        return file.read()\n# Read the content from the file\nfile_content = load_file_content(file_path)\n# Initialize the text splitter\ntext_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=100)\n# Split the document into chunks\nchunks = text_splitter.split_text(file_content)\n# Initialize ChromaDB client and create a collection",
+        "detail": "07 ollama RAG.main",
+        "documentation": {}
+    },
+    {
+        "label": "answer_question",
+        "kind": 2,
+        "importPath": "07 ollama RAG.main",
+        "description": "07 ollama RAG.main",
+        "peekOfCode": "def answer_question(question):\n    # Generate an embedding for the question\n    query_embedding = embed_model.embed_query(question)\n    # Retrieve the most relevant document chunks\n    results = collection.query(\n        query_embeddings=[query_embedding],\n        n_results=3  # Retrieve top 3 relevant chunks\n    )\n    relevant_docs = [result[0] for result in results['documents']]\n    combined_docs = \" \".join(relevant_docs)",
+        "detail": "07 ollama RAG.main",
+        "documentation": {}
+    },
+    {
+        "label": "embed_model",
+        "kind": 5,
+        "importPath": "07 ollama RAG.main",
+        "description": "07 ollama RAG.main",
+        "peekOfCode": "embed_model = OllamaEmbeddings(model=\"mistral\")\n# Path to the markdown file\nfile_path = \"./data/product.md\"\n# Function to read the content of the file\ndef load_file_content(file_path):\n    with open(file_path, 'r', encoding='utf-8') as file:\n        return file.read()\n# Read the content from the file\nfile_content = load_file_content(file_path)\n# Initialize the text splitter",
+        "detail": "07 ollama RAG.main",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "07 ollama RAG.main",
+        "description": "07 ollama RAG.main",
+        "peekOfCode": "file_path = \"./data/product.md\"\n# Function to read the content of the file\ndef load_file_content(file_path):\n    with open(file_path, 'r', encoding='utf-8') as file:\n        return file.read()\n# Read the content from the file\nfile_content = load_file_content(file_path)\n# Initialize the text splitter\ntext_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=100)\n# Split the document into chunks",
+        "detail": "07 ollama RAG.main",
+        "documentation": {}
+    },
+    {
+        "label": "file_content",
+        "kind": 5,
+        "importPath": "07 ollama RAG.main",
+        "description": "07 ollama RAG.main",
+        "peekOfCode": "file_content = load_file_content(file_path)\n# Initialize the text splitter\ntext_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=100)\n# Split the document into chunks\nchunks = text_splitter.split_text(file_content)\n# Initialize ChromaDB client and create a collection\nclient = chromadb.Client()\ncollection = client.create_collection(name=\"docs\")\n# Embed each chunk and store it in the collection\nfor i, chunk in enumerate(chunks):",
+        "detail": "07 ollama RAG.main",
+        "documentation": {}
+    },
+    {
+        "label": "text_splitter",
+        "kind": 5,
+        "importPath": "07 ollama RAG.main",
+        "description": "07 ollama RAG.main",
+        "peekOfCode": "text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=100)\n# Split the document into chunks\nchunks = text_splitter.split_text(file_content)\n# Initialize ChromaDB client and create a collection\nclient = chromadb.Client()\ncollection = client.create_collection(name=\"docs\")\n# Embed each chunk and store it in the collection\nfor i, chunk in enumerate(chunks):\n    chunk_embedding = embed_model.embed_documents([chunk])\n    collection.add(",
+        "detail": "07 ollama RAG.main",
+        "documentation": {}
+    },
+    {
+        "label": "chunks",
+        "kind": 5,
+        "importPath": "07 ollama RAG.main",
+        "description": "07 ollama RAG.main",
+        "peekOfCode": "chunks = text_splitter.split_text(file_content)\n# Initialize ChromaDB client and create a collection\nclient = chromadb.Client()\ncollection = client.create_collection(name=\"docs\")\n# Embed each chunk and store it in the collection\nfor i, chunk in enumerate(chunks):\n    chunk_embedding = embed_model.embed_documents([chunk])\n    collection.add(\n        ids=[str(i)],\n        embeddings=chunk_embedding,",
+        "detail": "07 ollama RAG.main",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "07 ollama RAG.main",
+        "description": "07 ollama RAG.main",
+        "peekOfCode": "client = chromadb.Client()\ncollection = client.create_collection(name=\"docs\")\n# Embed each chunk and store it in the collection\nfor i, chunk in enumerate(chunks):\n    chunk_embedding = embed_model.embed_documents([chunk])\n    collection.add(\n        ids=[str(i)],\n        embeddings=chunk_embedding,\n        documents=[chunk]\n    )",
+        "detail": "07 ollama RAG.main",
+        "documentation": {}
+    },
+    {
+        "label": "collection",
+        "kind": 5,
+        "importPath": "07 ollama RAG.main",
+        "description": "07 ollama RAG.main",
+        "peekOfCode": "collection = client.create_collection(name=\"docs\")\n# Embed each chunk and store it in the collection\nfor i, chunk in enumerate(chunks):\n    chunk_embedding = embed_model.embed_documents([chunk])\n    collection.add(\n        ids=[str(i)],\n        embeddings=chunk_embedding,\n        documents=[chunk]\n    )\n# Specify the local language model",
+        "detail": "07 ollama RAG.main",
+        "documentation": {}
+    },
+    {
+        "label": "local_llm",
+        "kind": 5,
+        "importPath": "07 ollama RAG.main",
+        "description": "07 ollama RAG.main",
+        "peekOfCode": "local_llm = \"phi3\"\n# Initialize the ChatOllama model with desired parameters\nllm = ChatOllama(model=local_llm, format=\"json\", temperature=0)\n# Define the prompt template\ntemplate = \"Question: {question}\\nAnswer: Let's think step by step.\"\nprompt = PromptTemplate.from_template(template)\n# Define the langchain pipeline\nllm_chain = prompt | llm | StrOutputParser()\n# Function to answer questions using RAG\ndef answer_question(question):",
+        "detail": "07 ollama RAG.main",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "07 ollama RAG.main",
+        "description": "07 ollama RAG.main",
+        "peekOfCode": "llm = ChatOllama(model=local_llm, format=\"json\", temperature=0)\n# Define the prompt template\ntemplate = \"Question: {question}\\nAnswer: Let's think step by step.\"\nprompt = PromptTemplate.from_template(template)\n# Define the langchain pipeline\nllm_chain = prompt | llm | StrOutputParser()\n# Function to answer questions using RAG\ndef answer_question(question):\n    # Generate an embedding for the question\n    query_embedding = embed_model.embed_query(question)",
+        "detail": "07 ollama RAG.main",
+        "documentation": {}
+    },
+    {
+        "label": "template",
+        "kind": 5,
+        "importPath": "07 ollama RAG.main",
+        "description": "07 ollama RAG.main",
+        "peekOfCode": "template = \"Question: {question}\\nAnswer: Let's think step by step.\"\nprompt = PromptTemplate.from_template(template)\n# Define the langchain pipeline\nllm_chain = prompt | llm | StrOutputParser()\n# Function to answer questions using RAG\ndef answer_question(question):\n    # Generate an embedding for the question\n    query_embedding = embed_model.embed_query(question)\n    # Retrieve the most relevant document chunks\n    results = collection.query(",
+        "detail": "07 ollama RAG.main",
+        "documentation": {}
+    },
+    {
+        "label": "prompt",
+        "kind": 5,
+        "importPath": "07 ollama RAG.main",
+        "description": "07 ollama RAG.main",
+        "peekOfCode": "prompt = PromptTemplate.from_template(template)\n# Define the langchain pipeline\nllm_chain = prompt | llm | StrOutputParser()\n# Function to answer questions using RAG\ndef answer_question(question):\n    # Generate an embedding for the question\n    query_embedding = embed_model.embed_query(question)\n    # Retrieve the most relevant document chunks\n    results = collection.query(\n        query_embeddings=[query_embedding],",
+        "detail": "07 ollama RAG.main",
+        "documentation": {}
+    },
+    {
+        "label": "llm_chain",
+        "kind": 5,
+        "importPath": "07 ollama RAG.main",
+        "description": "07 ollama RAG.main",
+        "peekOfCode": "llm_chain = prompt | llm | StrOutputParser()\n# Function to answer questions using RAG\ndef answer_question(question):\n    # Generate an embedding for the question\n    query_embedding = embed_model.embed_query(question)\n    # Retrieve the most relevant document chunks\n    results = collection.query(\n        query_embeddings=[query_embedding],\n        n_results=3  # Retrieve top 3 relevant chunks\n    )",
+        "detail": "07 ollama RAG.main",
+        "documentation": {}
+    },
+    {
+        "label": "question",
+        "kind": 5,
+        "importPath": "07 ollama RAG.main",
+        "description": "07 ollama RAG.main",
+        "peekOfCode": "question = \"What does the product look liked?\"\nanswer = answer_question(question)\nprint(f\"Answer: {answer}\")",
+        "detail": "07 ollama RAG.main",
+        "documentation": {}
+    },
+    {
+        "label": "answer",
+        "kind": 5,
+        "importPath": "07 ollama RAG.main",
+        "description": "07 ollama RAG.main",
+        "peekOfCode": "answer = answer_question(question)\nprint(f\"Answer: {answer}\")",
+        "detail": "07 ollama RAG.main",
+        "documentation": {}
+    }
+]
